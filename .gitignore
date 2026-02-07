@@ -1,0 +1,36 @@
+# Node / Vite
+node_modules/
+dist/
+.vite/
+*.log
+.npm/
+.pnpm-store/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# ETL temp output (will live under web/public/data/ after Phase 0)
+etl/.tmp/
+etl/pytest-cache-files-*/
+
+# Vite hot-reload temp configs
+web/vite.config.ts.timestamp-*.mjs
+web/tsconfig.tsbuildinfo

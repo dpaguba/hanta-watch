@@ -1,0 +1,119 @@
+{
+  "schema_version": "1",
+  "species": [
+    {
+      "id": "ANDV",
+      "name": "Andes virus",
+      "syndrome": "HPS",
+      "case_fatality_pct": 35,
+      "reservoir_ids": ["oligoryzomys_longicaudatus"],
+      "regions": ["Argentina", "Chile", "Bolivia", "Paraguay", "Uruguay"],
+      "human_to_human": true,
+      "notes": "Only hantavirus with documented person-to-person transmission. Cause of the 2026 MV Hondius cluster."
+    },
+    {
+      "id": "SNV",
+      "name": "Sin Nombre virus",
+      "syndrome": "HPS",
+      "case_fatality_pct": 36,
+      "reservoir_ids": ["peromyscus_maniculatus"],
+      "regions": ["United States", "Canada", "Mexico"],
+      "human_to_human": false,
+      "notes": "Most common HPS pathogen in North America; ~80% of US cases."
+    },
+    {
+      "id": "BAYV",
+      "name": "Bayou virus",
+      "syndrome": "HPS",
+      "case_fatality_pct": 30,
+      "reservoir_ids": ["oryzomys_palustris"],
+      "regions": ["Southeastern United States"],
+      "human_to_human": false
+    },
+    {
+      "id": "BCCV",
+      "name": "Black Creek Canal virus",
+      "syndrome": "HPS",
+      "case_fatality_pct": null,
+      "reservoir_ids": ["sigmodon_hispidus"],
+      "regions": ["Florida"],
+      "human_to_human": false
+    },
+    {
+      "id": "CHOV",
+      "name": "Choclo virus",
+      "syndrome": "HPS",
+      "case_fatality_pct": 10,
+      "reservoir_ids": ["oligoryzomys_fulvescens"],
+      "regions": ["Panama"],
+      "human_to_human": false
+    },
+    {
+      "id": "LANV",
+      "name": "Laguna Negra virus",
+      "syndrome": "HPS",
+      "case_fatality_pct": 16,
+      "reservoir_ids": ["calomys_laucha"],
+      "regions": ["Paraguay", "Bolivia", "Argentina"],
+      "human_to_human": false
+    },
+    {
+      "id": "HTNV",
+      "name": "Hantaan virus",
+      "syndrome": "HFRS",
+      "case_fatality_pct": 12,
+      "reservoir_ids": ["apodemus_agrarius"],
+      "regions": ["China", "Korea", "Russia"],
+      "human_to_human": false,
+      "notes": "Type species of the genus; cause of severe HFRS in East Asia."
+    },
+    {
+      "id": "SEOV",
+      "name": "Seoul virus",
+      "syndrome": "HFRS",
+      "case_fatality_pct": 2,
+      "reservoir_ids": ["rattus_norvegicus", "rattus_rattus"],
+      "regions": ["Worldwide (urban)"],
+      "human_to_human": false,
+      "notes": "Carried by Norway rats worldwide; sporadic urban cases."
+    },
+    {
+      "id": "PUUV",
+      "name": "Puumala virus",
+      "syndrome": "HFRS",
+      "case_fatality_pct": 0.4,
+      "reservoir_ids": ["myodes_glareolus"],
+      "regions": ["Northern Europe", "Russia", "Western Russia"],
+      "human_to_human": false,
+      "notes": "Mild HFRS (nephropathia epidemica); most common HFRS pathogen in Europe."
+    },
+    {
+      "id": "DOBV",
+      "name": "Dobrava-Belgrade virus",
+      "syndrome": "HFRS",
+      "case_fatality_pct": 10,
+      "reservoir_ids": ["apodemus_flavicollis", "apodemus_ponticus"],
+      "regions": ["Balkans", "Eastern Europe"],
+      "human_to_human": false
+    },
+    {
+      "id": "SAAV",
+      "name": "Saaremaa virus",
+      "syndrome": "HFRS",
+      "case_fatality_pct": 0.4,
+      "reservoir_ids": ["apodemus_agrarius"],
+      "regions": ["Estonia", "Central Europe"],
+      "human_to_human": false
+    },
+    {
+      "id": "TULV",
+      "name": "Tula virus",
+      "syndrome": "HFRS",
+      "case_fatality_pct": null,
+      "reservoir_ids": ["microtus_arvalis"],
+      "regions": ["Europe", "Russia"],
+      "human_to_human": false,
+      "notes": "Rarely pathogenic; mostly studied in surveillance contexts."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "mv-hondius-2026",
+    "name": "MV Hondius Andes virus cluster",
+    "started": "2026-04-01",
+    "status": "closed",
+    "virus_species": "ANDV",
+    "syndrome": "HPS",
+    "countries": [
+      "NLD",
+      "ARG",
+      "ESP",
+      "CAN",
+      "DEU",
+      "FRA",
+      "GBR",
+      "ZAF"
+    ],
+    "cases_confirmed": 12,
+    "cases_probable": 1,
+    "deaths": 3,
+    "human_to_human": true,
+    "summary": "Cluster on the Dutch cruise ship MV Hondius, which departed Ushuaia on 1 April 2026. WHO reported 13 cases in total, 12 confirmed and one probable, including three deaths, across eight countries. All contacts completed the 42 day follow-up period and WHO closed the event on 2 July 2026, stating that no further related transmission is expected.",
+    "estimate": false,
+    "sources": [
+      {
+        "name": "WHO DON 2026-DON611 (final)",
+        "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON611",
+        "fetched_at": "2026-07-02T00:00:00+00:00"
+      },
+      {
+        "name": "WHO DON 2026-DON600 (initial)",
+        "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      },
+      {
+        "name": "ECDC",
+        "url": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-04-01",
+        "event": "MV Hondius departs Ushuaia, Argentina."
+      },
+      {
+        "date": "2026-04-28",
+        "event": "First fatal case identified onboard."
+      },
+      {
+        "date": "2026-05-06",
+        "event": "Vessel departs for Tenerife with medical resources."
+      },
+      {
+        "date": "2026-05-07",
+        "event": "WHO publishes Disease Outbreak News."
+      },
+      {
+        "date": "2026-05-10",
+        "event": "Vessel arrives Tenerife; disembarkation begins; repatriation to NL, ES, DE, FR, GB, CA."
+      },
+      {
+        "date": "2026-05-12",
+        "event": "11 cases (9 confirmed, 2 probable) and 3 deaths confirmed by WHO."
+      },
+      {
+        "date": "2026-07-02",
+        "event": "WHO reports 13 cases (12 confirmed, 1 probable) and 3 deaths, and closes the event."
+      }
+    ]
+  }
+]

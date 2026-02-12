@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "reservoirs": [
+    {
+      "id": "peromyscus_maniculatus",
+      "common_name": "Deer mouse",
+      "scientific_name": "Peromyscus maniculatus",
+      "carries": ["SNV"],
+      "range_countries": ["USA", "CAN", "MEX"],
+      "range_notes": "Widespread across North America except the Southeast US."
+    },
+    {
+      "id": "oligoryzomys_longicaudatus",
+      "common_name": "Long-tailed pygmy rice rat",
+      "scientific_name": "Oligoryzomys longicaudatus",
+      "carries": ["ANDV"],
+      "range_countries": ["ARG", "CHL"],
+      "range_notes": "Patagonian forests; primary reservoir of Andes virus."
+    },
+    {
+      "id": "oryzomys_palustris",
+      "common_name": "Marsh rice rat",
+      "scientific_name": "Oryzomys palustris",
+      "carries": ["BAYV"],
+      "range_countries": ["USA"],
+      "range_notes": "Southeastern coastal US wetlands."
+    },
+    {
+      "id": "sigmodon_hispidus",
+      "common_name": "Hispid cotton rat",
+      "scientific_name": "Sigmodon hispidus",
+      "carries": ["BCCV"],
+      "range_countries": ["USA", "MEX"],
+      "range_notes": "Southeastern US to Central America."
+    },
+    {
+      "id": "oligoryzomys_fulvescens",
+      "common_name": "Fulvous pygmy rice rat",
+      "scientific_name": "Oligoryzomys fulvescens",
+      "carries": ["CHOV"],
+      "range_countries": ["PAN", "CRI", "MEX"],
+      "range_notes": "Central America."
+    },
+    {
+      "id": "calomys_laucha",
+      "common_name": "Small vesper mouse",
+      "scientific_name": "Calomys laucha",
+      "carries": ["LANV"],
+      "range_countries": ["PRY", "BOL", "ARG"],
+      "range_notes": "Gran Chaco region."
+    },
+    {
+      "id": "apodemus_agrarius",
+      "common_name": "Striped field mouse",
+      "scientific_name": "Apodemus agrarius",
+      "carries": ["HTNV", "SAAV"],
+      "range_countries": ["CHN", "KOR", "RUS", "EST", "DEU"],
+      "range_notes": "Wide Eurasian distribution."
+    },
+    {
+      "id": "rattus_norvegicus",
+      "common_name": "Norway rat",
+      "scientific_name": "Rattus norvegicus",
+      "carries": ["SEOV"],
+      "range_countries": ["WORLDWIDE"],
+      "range_notes": "Cosmopolitan urban species."
+    },
+    {
+      "id": "rattus_rattus",
+      "common_name": "Black rat",
+      "scientific_name": "Rattus rattus",
+      "carries": ["SEOV"],
+      "range_countries": ["WORLDWIDE"],
+      "range_notes": "Cosmopolitan."
+    },
+    {
+      "id": "myodes_glareolus",
+      "common_name": "Bank vole",
+      "scientific_name": "Myodes glareolus",
+      "carries": ["PUUV"],
+      "range_countries": ["FIN", "SWE", "NOR", "DEU", "RUS", "FRA", "BEL", "POL"],
+      "range_notes": "European boreal and temperate forests."
+    },
+    {
+      "id": "apodemus_flavicollis",
+      "common_name": "Yellow-necked mouse",
+      "scientific_name": "Apodemus flavicollis",
+      "carries": ["DOBV"],
+      "range_countries": ["SVN", "HRV", "SRB", "BIH", "DEU"],
+      "range_notes": "Balkans and Central Europe."
+    },
+    {
+      "id": "apodemus_ponticus",
+      "common_name": "Caucasian field mouse",
+      "scientific_name": "Apodemus ponticus",
+      "carries": ["DOBV"],
+      "range_countries": ["RUS", "GEO"],
+      "range_notes": "Caucasus."
+    },
+    {
+      "id": "microtus_arvalis",
+      "common_name": "Common vole",
+      "scientific_name": "Microtus arvalis",
+      "carries": ["TULV"],
+      "range_countries": ["DEU", "FRA", "POL", "RUS", "CZE"],
+      "range_notes": "Across Europe."
+    }
+  ]
+}

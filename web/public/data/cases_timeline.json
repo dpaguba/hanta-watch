@@ -1,0 +1,286 @@
+[
+  {
+    "iso3": "USA",
+    "period": "1993",
+    "cases": 48,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "1994",
+    "cases": 25,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "1995",
+    "cases": 24,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "1996",
+    "cases": 33,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "1997",
+    "cases": 22,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "1998",
+    "cases": 28,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "1999",
+    "cases": 32,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2000",
+    "cases": 26,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2001",
+    "cases": 17,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2002",
+    "cases": 19,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2003",
+    "cases": 27,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2004",
+    "cases": 23,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2005",
+    "cases": 26,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2006",
+    "cases": 35,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2007",
+    "cases": 32,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2008",
+    "cases": 18,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2009",
+    "cases": 19,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2010",
+    "cases": 19,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2011",
+    "cases": 24,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2012",
+    "cases": 38,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2013",
+    "cases": 25,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2014",
+    "cases": 28,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2015",
+    "cases": 26,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2016",
+    "cases": 17,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2017",
+    "cases": 30,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2018",
+    "cases": 21,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2019",
+    "cases": 29,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2020",
+    "cases": 17,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2021",
+    "cases": 11,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2022",
+    "cases": 15,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "USA",
+    "period": "2023",
+    "cases": 12,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "source": "CDC"
+  },
+  {
+    "iso3": "ARG",
+    "period": "2026-W17",
+    "cases": 4,
+    "deaths": 1,
+    "syndrome": "HPS",
+    "virus_species": "ANDV",
+    "source": "PAHO"
+  },
+  {
+    "iso3": "NLD",
+    "period": "2026-W19",
+    "cases": 4,
+    "deaths": 1,
+    "syndrome": "HPS",
+    "virus_species": "ANDV",
+    "source": "RIVM"
+  },
+  {
+    "iso3": "ESP",
+    "period": "2026-W19",
+    "cases": 2,
+    "deaths": 1,
+    "syndrome": "HPS",
+    "virus_species": "ANDV",
+    "source": "ECDC"
+  },
+  {
+    "iso3": "CAN",
+    "period": "2026-W19",
+    "cases": 1,
+    "deaths": 0,
+    "syndrome": "HPS",
+    "virus_species": "ANDV",
+    "source": "WHO DON"
+  }
+]

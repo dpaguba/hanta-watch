@@ -1,0 +1,312 @@
+[
+  {
+    "iso3": "USA",
+    "country": "United States",
+    "virus_species": [
+      "SNV",
+      "BAYV",
+      "BCCV"
+    ],
+    "syndrome": "HPS",
+    "cumulative_cases": 864,
+    "cumulative_deaths": 312,
+    "year_range": [
+      1993,
+      2023
+    ],
+    "last_case_reported": "2023-12-31",
+    "estimate": false,
+    "sources": [
+      {
+        "name": "CDC HPS Surveillance",
+        "url": "https://www.cdc.gov/hantavirus/data-research/cases/index.html",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "ARG",
+    "country": "Argentina",
+    "virus_species": [
+      "ANDV",
+      "LANV"
+    ],
+    "syndrome": "HPS",
+    "cumulative_cases": 1600,
+    "cumulative_deaths": 400,
+    "year_range": [
+      1995,
+      2025
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "PAHO (estimate)",
+        "url": "https://www.paho.org/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "CHL",
+    "country": "Chile",
+    "virus_species": [
+      "ANDV"
+    ],
+    "syndrome": "HPS",
+    "cumulative_cases": 1100,
+    "cumulative_deaths": 350,
+    "year_range": [
+      1995,
+      2025
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "PAHO (estimate)",
+        "url": "https://www.paho.org/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "BRA",
+    "country": "Brazil",
+    "virus_species": [
+      "ANDV"
+    ],
+    "syndrome": "HPS",
+    "cumulative_cases": 2200,
+    "cumulative_deaths": 900,
+    "year_range": [
+      1993,
+      2025
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "PAHO (estimate)",
+        "url": "https://www.paho.org/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "PAN",
+    "country": "Panama",
+    "virus_species": [
+      "CHOV"
+    ],
+    "syndrome": "HPS",
+    "cumulative_cases": 230,
+    "cumulative_deaths": 25,
+    "year_range": [
+      1999,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "PAHO (estimate)",
+        "url": "https://www.paho.org/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "country": "China",
+    "virus_species": [
+      "HTNV",
+      "SEOV"
+    ],
+    "syndrome": "HFRS",
+    "cumulative_cases": 1500000,
+    "cumulative_deaths": 47000,
+    "year_range": [
+      1950,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "Literature (estimate, 1950–2024)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "KOR",
+    "country": "South Korea",
+    "virus_species": [
+      "HTNV",
+      "SEOV"
+    ],
+    "syndrome": "HFRS",
+    "cumulative_cases": 25000,
+    "cumulative_deaths": 300,
+    "year_range": [
+      1976,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "KDCA (estimate)",
+        "url": "https://www.kdca.go.kr/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "RUS",
+    "country": "Russia",
+    "virus_species": [
+      "PUUV",
+      "DOBV",
+      "HTNV"
+    ],
+    "syndrome": "HFRS",
+    "cumulative_cases": 200000,
+    "cumulative_deaths": 700,
+    "year_range": [
+      1978,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "Rospotrebnadzor (estimate)",
+        "url": "https://www.rospotrebnadzor.ru/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "FIN",
+    "country": "Finland",
+    "virus_species": [
+      "PUUV"
+    ],
+    "syndrome": "HFRS",
+    "cumulative_cases": 50000,
+    "cumulative_deaths": 30,
+    "year_range": [
+      1980,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "THL Finland (estimate)",
+        "url": "https://www.thl.fi/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "country": "Germany",
+    "virus_species": [
+      "PUUV",
+      "DOBV",
+      "TULV"
+    ],
+    "syndrome": "HFRS",
+    "cumulative_cases": 25000,
+    "cumulative_deaths": 25,
+    "year_range": [
+      2001,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "RKI Germany (estimate)",
+        "url": "https://www.rki.de/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "country": "Sweden",
+    "virus_species": [
+      "PUUV"
+    ],
+    "syndrome": "HFRS",
+    "cumulative_cases": 10000,
+    "cumulative_deaths": 10,
+    "year_range": [
+      1990,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "Folkhälsomyndigheten (estimate)",
+        "url": "https://www.folkhalsomyndigheten.se/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "country": "France",
+    "virus_species": [
+      "PUUV"
+    ],
+    "syndrome": "HFRS",
+    "cumulative_cases": 2500,
+    "cumulative_deaths": 5,
+    "year_range": [
+      1990,
+      2024
+    ],
+    "last_case_reported": null,
+    "estimate": true,
+    "sources": [
+      {
+        "name": "Santé publique France (estimate)",
+        "url": "https://www.santepubliquefrance.fr/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "country": "Netherlands",
+    "virus_species": [
+      "PUUV",
+      "SEOV",
+      "ANDV"
+    ],
+    "syndrome": "mixed",
+    "cumulative_cases": 7,
+    "cumulative_deaths": 1,
+    "year_range": [
+      2010,
+      2026
+    ],
+    "last_case_reported": "2026-05-12",
+    "estimate": true,
+    "sources": [
+      {
+        "name": "RIVM (estimate)",
+        "url": "https://www.rivm.nl/",
+        "fetched_at": "2026-05-13T00:00:00+00:00"
+      }
+    ]
+  }
+]

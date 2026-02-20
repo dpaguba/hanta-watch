@@ -1,0 +1,33 @@
+name: Bug report
+description: Something does not work
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you got instead.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where
+      options:
+        - The website
+        - The ETL pipeline
+        - The published JSON data
+        - CI or deployment
+    validations:
+      required: true
+  - type: input
+    id: commit
+    attributes:
+      label: Commit
+      description: The commit you were running.
+  - type: textarea
+    id: output
+    attributes:
+      label: Output
+      description: Console output or the error shown.
+      render: shell

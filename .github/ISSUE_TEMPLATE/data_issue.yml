@@ -1,0 +1,25 @@
+name: Data problem
+description: A figure looks wrong, or a citation does not support it
+labels: [data]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where on the site
+      placeholder: Country page for Argentina, cumulative deaths
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: The figure shown, and what you believe it should be.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source that supports the correction
+      description: A link to the published document, not a homepage.
+    validations:
+      required: true

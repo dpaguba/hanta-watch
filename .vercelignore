@@ -1,0 +1,8 @@
+# Only web/ is built, so the rest stays out of the upload. Every pattern is
+# anchored: an unanchored "data/" would also match web/public/data/, which is
+# the published dataset and has to ship.
+/etl/
+/data/
+/docs/
+/.github/
+/*.md

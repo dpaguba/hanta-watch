@@ -1,0 +1,53 @@
+name: ETL
+
+on:
+  schedule:
+    - cron: "5 * * * *" # hourly at :05
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "etl/**"
+      - "data/reference/**"
+      - ".github/workflows/etl.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: etl
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: etl/requirements.txt
+
+      - name: Install ETL deps
+        working-directory: etl
+        run: pip install -r requirements.txt
+
+      - name: Run ETL
+        working-directory: etl
+        run: python -m etl.run --out ../web/public/data
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Commit updated data (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/public/data data/snapshots
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: hourly ETL refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

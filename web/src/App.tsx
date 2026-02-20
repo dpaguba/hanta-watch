@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, NavLink, Route, Routes, useLocation } from "react-router-dom";
 
 import { useReveal } from "./lib/motion";
@@ -34,13 +34,19 @@ export default function App() {
 
   useReveal(location.pathname);
 
+  // pushState leaves the scroll position where the previous page left it, so a
+  // new page would otherwise open halfway down.
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
   return (
     <div className="app">
       <header className="app__nav">
-        <a href={import.meta.env.BASE_URL} className="app__brand" aria-label="Hanta-Watch home">
+        <Link to="/" className="app__brand" aria-label="Hanta-Watch home">
           <span className="app__brand-mark" aria-hidden />
           {"Hanta-Watch"}
-        </a>
+        </Link>
         <nav className={`app__nav-links ${navOpen ? "open" : ""}`}>
           <NavLink to="/" end onClick={() => setNavOpen(false)}>
             {"Overview"}

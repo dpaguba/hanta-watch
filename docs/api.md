@@ -7,8 +7,11 @@ served as static assets. They update hourly.
 
 When deployed:
 ```
-https://dpaguba.github.io/hanta-watch/data/
+https://hanta-watch.vercel.app/data/
 ```
+
+The files are served with `Access-Control-Allow-Origin: *`, so a browser on
+another origin can fetch them directly.
 
 Locally (after `npm run build` in `web/`):
 ```

@@ -1,12 +1,17 @@
 # Hanta-Watch
 
+[![CI](https://github.com/dpaguba/hanta-watch/actions/workflows/ci.yml/badge.svg)](https://github.com/dpaguba/hanta-watch/actions/workflows/ci.yml)
+[![ETL](https://github.com/dpaguba/hanta-watch/actions/workflows/etl.yml/badge.svg)](https://github.com/dpaguba/hanta-watch/actions/workflows/etl.yml)
+[![Code licence: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](./LICENSE)
+[![Data licence: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](./docs/data-license.md)
+
 An open, sourced view of global hantavirus activity.
 
 Hanta-Watch collects what public health agencies publish about hantavirus and
 puts it on one page. Every figure keeps a link to the document it came from,
 every dataset is a plain JSON file anyone can fetch, and the whole site is
-static: a Python job writes the data, GitHub Actions runs it, GitHub Pages
-serves it.
+static: a Python job writes the data, GitHub Actions runs it, Vercel serves
+it.
 
 The virus causes two syndromes, HPS in the Americas and HFRS across Eurasia,
 carried by different rodent species and different virus species: Andes, Sin
@@ -33,9 +38,12 @@ npm run build      # static site into web/dist/
 ## Architecture
 
 ```
-GitHub Actions cron ──▶  etl/  ──▶  web/public/data/*.json  ──▶  web/  ──▶  GitHub Pages
+GitHub Actions cron ──▶  etl/  ──▶  web/public/data/*.json  ──▶  web/  ──▶  Vercel
     hourly at :05       Python        schema_version "1"         Vite        static hosting
 ```
+
+The ETL commits the JSON it produces, so the repository history is the audit
+trail and the commit is also what triggers a rebuild of the site.
 
 Sources run one after another and in isolation, so a source that fails does not
 stop the others. Seed data is merged first, which means an offline run still
@@ -62,7 +70,29 @@ citations.
 - **Frontend**: Vite, React 18, TypeScript. Choropleth on `react-simple-maps`,
   charts on `recharts`, routing on `react-router-dom`. English only.
 - **ETL**: Python 3.10+ with `httpx` and `feedparser`.
-- **Hosting**: GitHub Pages, built and deployed by GitHub Actions.
+- **Hosting**: Vercel, rebuilt on every push to `main`.
+
+## Deployment
+
+The site is static, with no server side of its own.
+[`vercel.json`](./vercel.json) carries the whole configuration, so importing the
+repository on Vercel needs nothing set in the dashboard: leave the root
+directory at the repository root and deploy.
+
+| Setting | Value |
+|---|---|
+| Install | `npm --prefix web ci` |
+| Build | `npm --prefix web run build` |
+| Output | `web/dist` |
+
+Routing happens in the browser, so every path that is not a file rewrites to
+`index.html`. Static files win over that rule, which is what keeps
+`/data/*.json` fetchable.
+
+The hourly ETL commits its JSON to `main`, and that push is what rebuilds the
+site. GitHub deliberately does not start workflows from a push made with
+`GITHUB_TOKEN`, but the Vercel integration is a webhook and receives it, so the
+published data stays in step with the repository.
 
 ## Testing
 

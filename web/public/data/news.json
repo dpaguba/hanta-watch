@@ -1,16 +1,5 @@
 [
   {
-    "id": "db740ad5a295fecf1edb349bcb51d8a4",
-    "title": "How the Government Failed to Protect Us from the Andes Strain of Hantavirus - The Teen Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTgzbTV2djY4WDJyTUo3V2ViZUE3c0JIZUxhb29MU2NFNzBxS1ZSS21DdmtwZFZaN2o5N0hibmNuR09IYmhoazdGUzRobzh0T19FRkQxank1RXBBdlpDOEZRV1NFakI5NWx3akNHMHpRU2JVamZMcWhJRWlsMnk3YUNWdUZNZkJNVWZsSUZsSjlodW8zXzM4dTk2TTRNSVVRNnpBTTRwakVNbTg?oc=5",
-    "source": "The Teen Magazine",
-    "published_at": "2026-08-28T17:00:09+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "80d14991c713b6dd01e2a66908724900",
     "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
@@ -236,6 +225,17 @@
     "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
     "source": "Live Science",
+    "published_at": "2026-05-15T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "428f8585e2b04d5527d024f795f13cdb",
+    "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdKeXJKbUI1RVRQYURod2k2U3ZackRXTnAzQUdjSTR1d1ZQcExWZ3NCdmNaaEpqRENkMEx0WE5VS3RtMWMySjJRRjR5dW5KWU1CVnFhUmF6SWo3Ti0wVGFhRG1TUnc4RkRqOGtyYWtWN053RTVSMklpN2p2eUhQOUMyZXc4eTNXcWZORTBLMjBlMW45Q0NxRWtNaGRhUGJubHRXaHJhdDdKMUtYV1JQelJn?oc=5",
+    "source": "CIDRAP",
     "published_at": "2026-05-15T07:00:00+00:00",
     "tags": [
       "news"
@@ -523,6 +523,17 @@
     "country_iso3": []
   },
   {
+    "id": "619382b9e8e0da1aff92f2272f282a87",
+    "title": "Hantavirus outbreak on cruise ship not ‘another COVID’, WHO says - UN News",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEX1FvU2YzcHFsNU5icmIxT3lqelBjWG5HdVEyMUFtOFNaXzJ5RHZVNUVRWTg0b3d2azlhY2RVcDUxRDNMOFJPcjZpb3YxajB0elF2QmNXdw?oc=5",
+    "source": "UN News",
+    "published_at": "2026-05-07T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "c270c8142300dcac5c6cba75ba1c8f91",
     "title": "Hantavirus explained: What to know after the cruise ship outbreak - Harvard Health",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
@@ -593,17 +604,6 @@
     "title": "What is hantavirus and how does it spread? - CNN",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0NQMWpCc3h3bHByOS1ieHNBcFF2ZG1NVVJKV0Z0ejJPRnByWkwxSzY1cjlUNWFXeTYxci1yWmtuOWp6R0xzdERBdGhteEVaWHUtQWEycjdlVjhkVE5waDRpMXdPYmIxblFpSXZLQ2g2U05zYlRNZWN3anR6NlQ5cWVB?oc=5",
     "source": "CNN",
-    "published_at": "2026-05-04T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "bd1807878b441f6c4ea6a84a0cdb6ecd",
-    "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak that has killed 3 people - PBS",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDZydV8xVndud2ZCbWFHRkRDYl84MVQ2M0Q3WDF6ZkY0dGprTTVHNnlWZE9lVjJYQk5nRlB3elp6N29wQ2tJT2dETHdackJtN3VqbzVOR2hXbWxwVS0tY1Nfc3ZyOWlBa1ZudVc1RVJLNnZ5dkFPWlROZmtGa1UzdFpTX3BlSmZHMWxmX1lPWDZFSGhoamlfUVpWTjBUemVfWTliTUctMFQ4TGlUUW5QVHRlSllhVDg4dUFIUWNGbW96SDMzdXRYMllGTDhHWERJbEYzOQ?oc=5",
-    "source": "PBS",
     "published_at": "2026-05-04T07:00:00+00:00",
     "tags": [
       "news"

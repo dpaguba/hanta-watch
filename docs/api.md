@@ -5,10 +5,14 @@ served as static assets. They update hourly.
 
 ## Base URL
 
-When deployed:
+When deployed, the datasets sit next to the site itself:
 ```
-https://hanta-watch.vercel.app/data/
+<site>/data/
 ```
+
+The deployed address is linked from the repository homepage. Canonical links,
+`robots.txt` and the sitemap are written at build time from the domain the host
+reports, so the site never has to carry a hard-coded address.
 
 The files are served with `Access-Control-Allow-Origin: *`, so a browser on
 another origin can fetch them directly.

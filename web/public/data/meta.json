@@ -1,25 +1,25 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-09-01T13:27:32.025948+00:00",
+  "generated_at": "2026-09-01T17:47:20.906315+00:00",
   "source_runs": {
     "who_don": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-09-01T13:27:27.282109+00:00",
+      "fetched_at": "2026-09-01T17:47:19.193543+00:00",
       "items": 5,
       "error": null
     },
     "ecdc": {
-      "ok": true,
-      "state": "ok",
-      "fetched_at": "2026-09-01T13:27:28.498155+00:00",
-      "items": 1,
-      "error": null
+      "ok": false,
+      "state": "error",
+      "fetched_at": "2026-09-01T17:47:20.243139+00:00",
+      "items": 0,
+      "error": "FetchError: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ecdc.europa.eu'. (_ssl.c:1016)"
     },
     "google_news": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-09-01T13:27:31.446304+00:00",
+      "fetched_at": "2026-09-01T17:47:20.362604+00:00",
       "items": 50,
       "error": null
     }

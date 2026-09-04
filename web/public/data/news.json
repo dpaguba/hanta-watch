@@ -89,17 +89,6 @@
     "country_iso3": []
   },
   {
-    "id": "e1a75521dc751157af35014a6c0fb816",
-    "title": "Hantavirus disease and the need for pathogenesis-guided therapy - Rockefeller University Press",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHZNQjRwcW16SE5vMUxnLXVOQVdUT0tGcTljb2FDUHZOcGF1X1JRYTVDTEZlbHZ5REJ5dDNhU0FyNXU4dFBFNUw4Z0M0aGVLa3JlSUIwVmVyaXBNUGtfdVFFTDRsQUd2YzFCTkpFNHJoX1JRT1NYdDVUUjZpRVNHdVB6RzJxdml0NjNhSjJWZDRvYlFlX2RuWmdMbnJQR2JHLWFBdmJn?oc=5",
-    "source": "Rockefeller University Press",
-    "published_at": "2026-05-27T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "b0d7f5b576735f564041ba9c7a0cf180",
     "title": "Hantavirus: What People Should Know About the Rare but Serious Virus - National Academy of Medicine",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOC1oSnp5cHJZbG10NVE1UUJuWXdfdXY0ZWIyblpmejA2RTZObF90U05IaWp4ZU00aWIyT3VpV2dwaTF3V1g0TEJNc1NsbUgxY1ViUWxnR1NhZzZnUHU0TmZWSFZMYlluVHlTSW9MX1RGbnlYX01NdVc3WEl6eFNuakh6V2dPWFAtak5uaUF5YWhiWnpnVlJ6a0NfMlpJR2ZLVXduZA?oc=5",
@@ -133,10 +122,10 @@
     "country_iso3": []
   },
   {
-    "id": "2e47b0d63726c2cfbec8e7a141c7f70b",
-    "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+    "id": "bc46e45dd08f37b8d5f66c6880787935",
+    "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - news.wsu.edu",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-    "source": "WSU Insider",
+    "source": "news.wsu.edu",
     "published_at": "2026-05-21T07:00:00+00:00",
     "tags": [
       "news"
@@ -277,10 +266,10 @@
     "country_iso3": []
   },
   {
-    "id": "3ca76fd8408dc06d6b7aa7d64b4c37a7",
-    "title": "How worried should we be about hantavirus? - bbc.com",
+    "id": "3b1b49b826fd27bebfab28e0c0ea509e",
+    "title": "How worried should we be about hantavirus? - BBC",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fOXdPSXg0Tm9HQ2RWRHJzUGgwc25lR29aZngxeHpSZE1kY0I3MnZNWXg4Y05SakJxZGJSNXB6Q2dfcV9tWEN3dXBIaUxZeHkxQkpFV3dwc29WQQ?oc=5",
-    "source": "bbc.com",
+    "source": "BBC",
     "published_at": "2026-05-12T07:00:00+00:00",
     "tags": [
       "news"
@@ -301,6 +290,17 @@
       "USA"
     ],
     "id": "777a5cf8d3e9df96a258b3fb3d07a447"
+  },
+  {
+    "id": "49aa27d6e842b26ea617b1bcf70b4811",
+    "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzazlQT3A1YVRzUFRwLUJSTVZLa3dFMkxFb1RwVU9nVHJDOW4wRUl1X2gyVzQwMkpWUENjSEluVWRkUGNVUEVaQ2pnREozemotd2N4bE5HLUNqSUVVdWFR?oc=5",
+    "source": "Nature",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
   },
   {
     "id": "b3f37c44f2ec9c7587a27179c47a621e",
@@ -377,6 +377,17 @@
     "title": "What the numbers tell us about hantavirus - CNN",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MzJKMEJPV2ZUQ0JNQVBHd1Nzd0F6QzNPaWM4eXRtT0NZMENKRTJvRlppTkJ1M1B0andsSzlWbzQ1cUppaTBZNHJmdEZoTTZrN0IyM0xXeVZlRlNsanUzcW1FdlM4bGVvUnItMHBoQ28?oc=5",
     "source": "CNN",
+    "published_at": "2026-05-08T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "cde126dc832cbca50e5497139e76eab0",
+    "title": "Wider hantavirus outbreak risk is ‘absolutely low’, insists UN health agency - UN News",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ncGhXUk1kVUJla3AweDc3LWRnV05MRmtqMnBGUlpNWjJJS0t3S05CQWNXNDNaLWtCVDJxQTg5OUJFZXZMd2tZbEI5RjFsdWxNbzRGX0RGMA?oc=5",
+    "source": "UN News",
     "published_at": "2026-05-08T07:00:00+00:00",
     "tags": [
       "news"
@@ -501,10 +512,10 @@
     "country_iso3": []
   },
   {
-    "id": "ca0f12a308bbc8d54d8af4c1f2195d13",
-    "title": "Hantavirus explained: What to know after the cruise ship outbreak - health.harvard.edu",
+    "id": "c270c8142300dcac5c6cba75ba1c8f91",
+    "title": "Hantavirus explained: What to know after the cruise ship outbreak - Harvard Health",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
-    "source": "health.harvard.edu",
+    "source": "Harvard Health",
     "published_at": "2026-05-06T07:00:00+00:00",
     "tags": [
       "news"
@@ -523,10 +534,10 @@
     "country_iso3": []
   },
   {
-    "id": "2728508301d922d0dec6d1fed7113193",
-    "title": "What is hantavirus? Here's what to know about how it spreads - National Geographic",
+    "id": "b6b3ade3e7c5ad2bfecbe4c2c9444607",
+    "title": "What is hantavirus? Here's what to know about how it spreads - nationalgeographic.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRU9sckxvVHZrdFhiWGJxMmZOWWRianhTcUFhZk5MLWdRcGxxUzBFRHlpeEc4Yzl4akp6TVAwOE9qTW93YlpTeVJSQ1lpYXBZazNmY2xaUmhRVkFIWHpsVXBUQ0NFTlFqT0h2UzViQnRYcHBRa0wxeENmdFdKSGJFeFRLc1ZUYlFCOHFJdQ?oc=5",
-    "source": "National Geographic",
+    "source": "nationalgeographic.com",
     "published_at": "2026-05-06T07:00:00+00:00",
     "tags": [
       "news"
@@ -582,17 +593,6 @@
     "title": "Can hantavirus spread between humans? What to know as WHO investigates ship outbreak - PBS",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlRWaHNoMHEwNDNpVGRQRkQ0UVFJdkgxZF81eWZuejZDcEJiTUVwZVB3NG9KYnI0d3I1UFd4SXRxVUczMDFrSlhKZ3BqLWQzQ21wa3o3cEp4UU03V2d3anpnZ0tYRzM1M3l5MVhxaldHQlBSVzdHZTNiazM4aXc3US1OMHVENG9HZnVsOVEtVnJBLThTT3VwM0ZXWDA3Q2hGSlJlOTBldW1iVDhYblJHNGV2dVl6aXpr?oc=5",
     "source": "PBS",
-    "published_at": "2026-05-05T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "10e87367fa7fc5608643f356405af72e",
-    "title": "Human spread of hantavirus not ruled out on cruise ship - UN News",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14VUtxSVdJZmFxd1ZtdzVMd2Q2QnR4LTlwVTVWUkVBWWlaUmFicEo5SHBtWGIxNjZnVk5zU0ctSmJwZnNqZ0s1NTJuYi1CY1FtYi1DUERBNA?oc=5",
-    "source": "UN News",
     "published_at": "2026-05-05T07:00:00+00:00",
     "tags": [
       "news"

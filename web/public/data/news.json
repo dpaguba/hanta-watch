@@ -1,16 +1,5 @@
 [
   {
-    "id": "4f1f29940e3738a492cf31b6e742dba3",
-    "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "published_at": "2026-09-02T20:10:24+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "ef223405baf4ecc2d25699777b1629a2",
     "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
@@ -111,10 +100,10 @@
     "country_iso3": []
   },
   {
-    "id": "a56998dff050eabe53de5ce531208691",
-    "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - paho.org",
+    "id": "ea79b2f61ca0edb959b5781909a904ed",
+    "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - Pan American Health Organization (PAHO)",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJGb2J2SV9udUhMZDBTQ2cwYkttSXBOWm42WjIxY1hxZC1vYl9UVzY3X0wyVWlwUjM1ZFcwNFlpM2NPc2VCNnYtTTRrSTRsSXcxWUpkaXNJc3J1ZDF2dmxOcV8tWHhLZ1czd1VkdVhLU0I2VzI1REpqa0pRbjFVN3ZtWXlENnJja3BteHZwTFlhT09SQ2hPVlZHMDhYdzhOYVJPcHNLU25Db1NVUnRVb3Z1MU91Njg2YTlfdGt3?oc=5",
-    "source": "paho.org",
+    "source": "Pan American Health Organization (PAHO)",
     "published_at": "2026-05-22T07:00:00+00:00",
     "tags": [
       "news"
@@ -133,10 +122,21 @@
     "country_iso3": []
   },
   {
-    "id": "bc46e45dd08f37b8d5f66c6880787935",
-    "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - news.wsu.edu",
+    "id": "2e47b0d63726c2cfbec8e7a141c7f70b",
+    "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-    "source": "news.wsu.edu",
+    "source": "WSU Insider",
+    "published_at": "2026-05-21T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "668183c1e01f758b8522567a0d638ac8",
+    "title": "Hantavirus: What to Know and Next Steps for Health Systems - Johns Hopkins Medicine",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWhxZ3lvUkZpZG1KT3FHNVpRRjdGNUJuZEpsR19oejNPMnc5OGFRVld4RWxnOG5tZ0NXcWQyNThVTzNOMmVaYlNxMXVWRENXWDhiWU1MMF9Tck5WNUc5RUhldWJRdWRDYUVTeUpVX3hNQnFVMHQtcF9PWC1WUVRPX3U1WnluZ0p3Q3N1QmJDQ1l0NGdqZndEY0o1VERGOUhJNVo0YzhTMzdyVEtDdGRBYTRLajE3OTFuVWhKRlVqVi01azA?oc=5",
+    "source": "Johns Hopkins Medicine",
     "published_at": "2026-05-21T07:00:00+00:00",
     "tags": [
       "news"
@@ -479,10 +479,10 @@
     "country_iso3": []
   },
   {
-    "id": "88271d28a08ff1b196278b721f0c76f8",
-    "title": "Hantavirus outbreak on cruise ship raises transmission concerns - news.ucr.edu",
+    "id": "18f4fbb2b159f1fd109a736335d2b7b6",
+    "title": "Hantavirus outbreak on cruise ship raises transmission concerns - University of California, Riverside",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n?oc=5",
-    "source": "news.ucr.edu",
+    "source": "University of California, Riverside",
     "published_at": "2026-05-07T07:00:00+00:00",
     "tags": [
       "news"
@@ -490,10 +490,10 @@
     "country_iso3": []
   },
   {
-    "id": "9e1ba661891e08a56dcc8d2e74f83110",
-    "title": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic - paho.org",
+    "id": "8b56d7526b0245d7473fff0b84f30733",
+    "title": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic - Pan American Health Organization (PAHO)",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHZheEhrMnVrTnFjZkx6XzNQYlllc1BETGJwMTgxNUN5WVh5Qmkxdi1xVFNwZDRmWkdTeS1FQmtJcXBhaUlWNFkwa1hLZlA4OWNkaWEtTEpET0hxQjJKWGprYXI3eGhIZUdzQ2RNQzVhOE51Mmx0M0pxVDdRZUZSc0xBN1JZVkxET2c2VURGUlRZSGdMZXl4QlFnSlN6RU5CMVN6U1VybDI3cHFHMWYyMWpnUEJONUZJ?oc=5",
-    "source": "paho.org",
+    "source": "Pan American Health Organization (PAHO)",
     "published_at": "2026-05-07T07:00:00+00:00",
     "tags": [
       "news"
@@ -512,10 +512,10 @@
     "country_iso3": []
   },
   {
-    "id": "ca0f12a308bbc8d54d8af4c1f2195d13",
-    "title": "Hantavirus explained: What to know after the cruise ship outbreak - health.harvard.edu",
+    "id": "c270c8142300dcac5c6cba75ba1c8f91",
+    "title": "Hantavirus explained: What to know after the cruise ship outbreak - Harvard Health",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
-    "source": "health.harvard.edu",
+    "source": "Harvard Health",
     "published_at": "2026-05-06T07:00:00+00:00",
     "tags": [
       "news"

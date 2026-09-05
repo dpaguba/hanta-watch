@@ -1,16 +1,5 @@
 [
   {
-    "id": "c67abbfca1c613dd2aad722867d254eb",
-    "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1RtRzhHNXp1cHRxem1PSk8wSHZVZW1OMERKWU9FcXpKbUR6VURMQ2pHLTJFUlJNOEc3S1RIeDVZajVMZGNZX1l6cGxpeWZuTFQ1Z2IzMHpVaG9wVmNYN01zR3JlMUtfaHVHQzc4b1NiUTlOVGhMellFSlpNWGkwcmhkYUdyc1Z3VUduZGktdGdkTjJVVThpaERsNTNwLWtWdUtkNWRzNNIBuwFBVV95cUxOUF9pUmJLdkt3ZUZLSnBvakN1VFhkcENaXzJBZm1ZUTZMTGVZSEgtN1BaWjVDY3ZXeV9QOGs0ZXpuWldoQ3c0T1hLRHFxYzNXZ200dDNmQ0ZwUkV6UGdVaklWdmNLM3VjNFFlc2U2Vjl1Umh0M3FMRjhsRWNXTXdSY3R1ZmtjSGVBNkNNdW1kTEhRZS1heGpRbVRDN3V5LUUtcXkzUDI2MDI3clZUQVNiclFxMmdWNTJxaDZz?oc=5",
-    "source": "KOTA Territory News",
-    "published_at": "2026-08-21T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "ef223405baf4ecc2d25699777b1629a2",
     "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
@@ -133,10 +122,10 @@
     "country_iso3": []
   },
   {
-    "id": "ce9f474224f469a4904c5800f63b8336",
-    "title": "Questions about hantavirus? We’ve got answers. - tpchd.org",
+    "id": "01bf6f8b6f950c45eab71135768a77ce",
+    "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
-    "source": "tpchd.org",
+    "source": "Tacoma-Pierce County Health Department",
     "published_at": "2026-05-21T07:00:00+00:00",
     "tags": [
       "news"
@@ -188,10 +177,21 @@
     "country_iso3": []
   },
   {
-    "id": "3de777f45efeeb18274c45c6f50e9c5c",
-    "title": "Hantavirus: Symptoms, Risks and How to Stay Safe | Health Matters | NYP - nyp.org",
+    "id": "428f8585e2b04d5527d024f795f13cdb",
+    "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdKeXJKbUI1RVRQYURod2k2U3ZackRXTnAzQUdjSTR1d1ZQcExWZ3NCdmNaaEpqRENkMEx0WE5VS3RtMWMySjJRRjR5dW5KWU1CVnFhUmF6SWo3Ti0wVGFhRG1TUnc4RkRqOGtyYWtWN053RTVSMklpN2p2eUhQOUMyZXc4eTNXcWZORTBLMjBlMW45Q0NxRWtNaGRhUGJubHRXaHJhdDdKMUtYV1JQelJn?oc=5",
+    "source": "CIDRAP",
+    "published_at": "2026-05-15T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "94dd5503d89e4018caba29c9140b12ee",
+    "title": "Hantavirus: Symptoms, Risks and How to Stay Safe | Health Matters | NYP - NewYork-Presbyterian",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZsNjVFOGJ3X0xiczM1NFFQNDRNLWNqanpoMmpvT0xRcXlxeG5DQU9OaHZhTmR0Rl8yek83cVJfelZiQklnRGFiRzlUVjZPRXhNYmRpdXJKTlpoMEhvM3Q3ZzJlbEtDVkh2Mkc5blFncTVxUXBaR0hoTEtvVHNzU1F1NUVSMjQ?oc=5",
-    "source": "nyp.org",
+    "source": "NewYork-Presbyterian",
     "published_at": "2026-05-14T07:00:00+00:00",
     "tags": [
       "news"
@@ -406,10 +406,10 @@
     "country_iso3": []
   },
   {
-    "id": "0679e26ba73fd8f23951cfad7bdd4570",
-    "title": "New Mexico health officials reassure residents about hantavirus risk following cruise ship outbreak - Source New Mexico",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUFsSVZGNXM3ZHFiaGxFa3lSMmY3REE5OU5naXRVcjVEZWtEbUV5TGw3bjg2dEFqMU9tYTZjX0pwVnpwTnVrSlNvNi05VDgwSVBNZGZHYktDeHZBcER5X2phd0tvTlotXy1IT1VwSUQ0enBNZnlmbjB1MDhmWGp2RzkwVjkxY2k5OHZkYlJBMUZRLUhLX0pjcDQzUnl1UFV0cWdUbm9KSjFyYVVHVWR1Y2Q2TUhyenc4VWsydWJaTTFDalRXWkxRaUktbGk?oc=5",
-    "source": "Source New Mexico",
+    "id": "703c3683158546a7c8ae306b1aaa1a1f",
+    "title": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjJJYWhaMGdMYXdIUlFiNlJieTdBUGFna0tRWDZjQ2dOZU45aFEzQ3FTTFVmRjdzbXpmTkRjUkFaR25sTENNREN3eml2V3g2LU94X256LUdXbnFXVm8wZTFtM1ZsQnZMSUpVeHZBR2piQXE4bm1taklrRVVPckhvbEVKUEpUaFlZWEMxeExKY2piYmoydDYzWG1B?oc=5",
+    "source": "CIDRAP",
     "published_at": "2026-05-08T07:00:00+00:00",
     "tags": [
       "news"
@@ -417,10 +417,10 @@
     "country_iso3": []
   },
   {
-    "id": "703c3683158546a7c8ae306b1aaa1a1f",
-    "title": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday - CIDRAP",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjJJYWhaMGdMYXdIUlFiNlJieTdBUGFna0tRWDZjQ2dOZU45aFEzQ3FTTFVmRjdzbXpmTkRjUkFaR25sTENNREN3eml2V3g2LU94X256LUdXbnFXVm8wZTFtM1ZsQnZMSUpVeHZBR2piQXE4bm1taklrRVVPckhvbEVKUEpUaFlZWEMxeExKY2piYmoydDYzWG1B?oc=5",
-    "source": "CIDRAP",
+    "id": "0679e26ba73fd8f23951cfad7bdd4570",
+    "title": "New Mexico health officials reassure residents about hantavirus risk following cruise ship outbreak - Source New Mexico",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUFsSVZGNXM3ZHFiaGxFa3lSMmY3REE5OU5naXRVcjVEZWtEbUV5TGw3bjg2dEFqMU9tYTZjX0pwVnpwTnVrSlNvNi05VDgwSVBNZGZHYktDeHZBcER5X2phd0tvTlotXy1IT1VwSUQ0enBNZnlmbjB1MDhmWGp2RzkwVjkxY2k5OHZkYlJBMUZRLUhLX0pjcDQzUnl1UFV0cWdUbm9KSjFyYVVHVWR1Y2Q2TUhyenc4VWsydWJaTTFDalRXWkxRaUktbGk?oc=5",
+    "source": "Source New Mexico",
     "published_at": "2026-05-08T07:00:00+00:00",
     "tags": [
       "news"
@@ -545,10 +545,10 @@
     "country_iso3": []
   },
   {
-    "id": "64fe0728dc07716559be0727800aebf4",
-    "title": "What is hantavirus? Symptoms, transmission and treatment explained - University of Florida",
+    "id": "9e4d71d8a6bf4636021777ec6f2f1f73",
+    "title": "What is hantavirus? Symptoms, transmission and treatment explained - news.ufl.edu",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LYmd4ZF93RkhVMENLRzZYZXhIeUtpOWdXVkJ6WWV5R2c1a1VkTUxRSnJhakNaYUU3bHVhYkJPdThDTXhlTjRfX0JpYjFwNElQcUE?oc=5",
-    "source": "University of Florida",
+    "source": "news.ufl.edu",
     "published_at": "2026-05-06T07:00:00+00:00",
     "tags": [
       "news"

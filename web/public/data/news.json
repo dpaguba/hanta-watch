@@ -1,16 +1,5 @@
 [
   {
-    "id": "dfa817bf20b1d72ae85c6c469fec0336",
-    "title": "Managing a maritime emergency: how Oceanwide Expeditions responded to a deadly hantavirus outbreak - Cruise & Ferry Review",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFFjNFNfd1hmRzgtU0FzUTJTOG0xczRxUy1sZFpQaEV4ajNkZUtvRGF5SHVMdjcxNXlPMEhteHZCQUF1RmdjQnlHY3ZodFdSZmpPZkl3VU9sbXhMdTl4bVludzJRQVBTOFJsd2NJTXU5QzVBVlY0bmQ5Rk1tMUNST2J6S29KMTdUbzFWSTVPSHZpNFBtZFU1R0tWR0lkNngzSjM2cEliZ3hfVnV2Y0lJVGx6SWpLNU5TRS02YkN0YVd3a2RxTHpiTkRMUm1Bb3VocDR3?oc=5",
-    "source": "Cruise & Ferry Review",
-    "published_at": "2026-09-04T05:51:32+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "4f1f29940e3738a492cf31b6e742dba3",
     "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
@@ -33,10 +22,10 @@
     "country_iso3": []
   },
   {
-    "id": "55e961cec0908c0cc70fd536a8d5eb09",
-    "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
+    "id": "1eb0c1f611d8eeaf02e777ba963c4de8",
+    "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-07-20T07:00:00+00:00",
     "tags": [
       "news"
@@ -52,6 +41,17 @@
     "tags": [
       "WHO",
       "official"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "da8bc998a7526e94dc24808c7329f240",
+    "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
+    "source": "Forbes",
+    "published_at": "2026-07-02T07:00:00+00:00",
+    "tags": [
+      "news"
     ],
     "country_iso3": []
   },
@@ -111,10 +111,10 @@
     "country_iso3": []
   },
   {
-    "id": "ea79b2f61ca0edb959b5781909a904ed",
-    "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - Pan American Health Organization (PAHO)",
+    "id": "a56998dff050eabe53de5ce531208691",
+    "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - paho.org",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJGb2J2SV9udUhMZDBTQ2cwYkttSXBOWm42WjIxY1hxZC1vYl9UVzY3X0wyVWlwUjM1ZFcwNFlpM2NPc2VCNnYtTTRrSTRsSXcxWUpkaXNJc3J1ZDF2dmxOcV8tWHhLZ1czd1VkdVhLU0I2VzI1REpqa0pRbjFVN3ZtWXlENnJja3BteHZwTFlhT09SQ2hPVlZHMDhYdzhOYVJPcHNLU25Db1NVUnRVb3Z1MU91Njg2YTlfdGt3?oc=5",
-    "source": "Pan American Health Organization (PAHO)",
+    "source": "paho.org",
     "published_at": "2026-05-22T07:00:00+00:00",
     "tags": [
       "news"
@@ -133,10 +133,10 @@
     "country_iso3": []
   },
   {
-    "id": "2e47b0d63726c2cfbec8e7a141c7f70b",
-    "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+    "id": "bc46e45dd08f37b8d5f66c6880787935",
+    "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - news.wsu.edu",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-    "source": "WSU Insider",
+    "source": "news.wsu.edu",
     "published_at": "2026-05-21T07:00:00+00:00",
     "tags": [
       "news"
@@ -144,10 +144,10 @@
     "country_iso3": []
   },
   {
-    "id": "26304432b0432acb20dc96877e31ac8c",
-    "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - cidrap.umn.edu",
+    "id": "018717bddf01befa5588412cfce28fa9",
+    "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-05-20T07:00:00+00:00",
     "tags": [
       "news"
@@ -177,10 +177,10 @@
     "country_iso3": []
   },
   {
-    "id": "25e0648cd3889898962b5cdc78c1b2f6",
-    "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - cidrap.umn.edu",
+    "id": "428f8585e2b04d5527d024f795f13cdb",
+    "title": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEdKeXJKbUI1RVRQYURod2k2U3ZackRXTnAzQUdjSTR1d1ZQcExWZ3NCdmNaaEpqRENkMEx0WE5VS3RtMWMySjJRRjR5dW5KWU1CVnFhUmF6SWo3Ti0wVGFhRG1TUnc4RkRqOGtyYWtWN053RTVSMklpN2p2eUhQOUMyZXc4eTNXcWZORTBLMjBlMW45Q0NxRWtNaGRhUGJubHRXaHJhdDdKMUtYV1JQelJn?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-05-15T07:00:00+00:00",
     "tags": [
       "news"
@@ -210,10 +210,10 @@
     "country_iso3": []
   },
   {
-    "id": "cd51ebdce1da6073e3f5928de7b46082",
-    "title": "CDC: Risk to general public from hantavirus is low - cidrap.umn.edu",
+    "id": "4e2c50c0f81502249ee2531fea33f59e",
+    "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-05-13T07:00:00+00:00",
     "tags": [
       "news"
@@ -325,10 +325,10 @@
     "country_iso3": []
   },
   {
-    "id": "c4bc4f979a7aa5d17b5a4f0edd4cbeba",
-    "title": "More hantavirus cases emerge as passengers debark cruise ship - cidrap.umn.edu",
+    "id": "91485a42b98b75758d780a1b618fd5d6",
+    "title": "More hantavirus cases emerge as passengers debark cruise ship - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkdvZzkyVFduQ1huSlFQa3F3c2E3dkpNZU40aUlHdXFWaUE1czdNY0xfOGNTMkw4Z0hXMm5OR2ZYMG9DakhWV2l0SFRhbTV2ZVk2VzZFTWJHaHhMNFZkU2RUNGNOZ0s2M2V3cFJfTzFHNzNGdzRXVzd1VFBnMW5fU19zVFl6MXJMQURzSHJuZjRoSzBtV0ZGY1VrOW4?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-05-11T07:00:00+00:00",
     "tags": [
       "news"
@@ -417,10 +417,10 @@
     "country_iso3": []
   },
   {
-    "id": "4f328a5f5eee3853613b2b5df7d30de5",
-    "title": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday - cidrap.umn.edu",
+    "id": "703c3683158546a7c8ae306b1aaa1a1f",
+    "title": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjJJYWhaMGdMYXdIUlFiNlJieTdBUGFna0tRWDZjQ2dOZU45aFEzQ3FTTFVmRjdzbXpmTkRjUkFaR25sTENNREN3eml2V3g2LU94X256LUdXbnFXVm8wZTFtM1ZsQnZMSUpVeHZBR2piQXE4bm1taklrRVVPckhvbEVKUEpUaFlZWEMxeExKY2piYmoydDYzWG1B?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-05-08T07:00:00+00:00",
     "tags": [
       "news"
@@ -490,10 +490,10 @@
     "country_iso3": []
   },
   {
-    "id": "8b56d7526b0245d7473fff0b84f30733",
-    "title": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic - Pan American Health Organization (PAHO)",
+    "id": "9e1ba661891e08a56dcc8d2e74f83110",
+    "title": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic - paho.org",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHZheEhrMnVrTnFjZkx6XzNQYlllc1BETGJwMTgxNUN5WVh5Qmkxdi1xVFNwZDRmWkdTeS1FQmtJcXBhaUlWNFkwa1hLZlA4OWNkaWEtTEpET0hxQjJKWGprYXI3eGhIZUdzQ2RNQzVhOE51Mmx0M0pxVDdRZUZSc0xBN1JZVkxET2c2VURGUlRZSGdMZXl4QlFnSlN6RU5CMVN6U1VybDI3cHFHMWYyMWpnUEJONUZJ?oc=5",
-    "source": "Pan American Health Organization (PAHO)",
+    "source": "paho.org",
     "published_at": "2026-05-07T07:00:00+00:00",
     "tags": [
       "news"
@@ -512,10 +512,10 @@
     "country_iso3": []
   },
   {
-    "id": "c270c8142300dcac5c6cba75ba1c8f91",
-    "title": "Hantavirus explained: What to know after the cruise ship outbreak - Harvard Health",
+    "id": "ca0f12a308bbc8d54d8af4c1f2195d13",
+    "title": "Hantavirus explained: What to know after the cruise ship outbreak - health.harvard.edu",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
-    "source": "Harvard Health",
+    "source": "health.harvard.edu",
     "published_at": "2026-05-06T07:00:00+00:00",
     "tags": [
       "news"
@@ -545,10 +545,10 @@
     "country_iso3": []
   },
   {
-    "id": "89b553402d6daef1622d2b956af14d2f",
-    "title": "What to know about hantavirus, the illness linked to a cruise ship outbreak - apnews.com",
+    "id": "7d00dd13a321abbe940348d178337d91",
+    "title": "What to know about hantavirus, the illness linked to a cruise ship outbreak - AP News",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1BdTlac293c2RtWXNYNmYzWXBaQXFjaEZWbmxEdjlTQXpZV25TQ2VnX0dHWWFzVVFVVU5rbUNKT05DbGNkLVY3T0pISGtpVG1tTkhUYXMzRUNHa3h2eGdWNVdQODJ1d3JaQjZhRDVld2JkeTN1cFQ4cUN6LXVsY1Job3k5enhObTNPenVUZ20tSkxHSE8ycXFacw?oc=5",
-    "source": "apnews.com",
+    "source": "AP News",
     "published_at": "2026-05-06T07:00:00+00:00",
     "tags": [
       "news"

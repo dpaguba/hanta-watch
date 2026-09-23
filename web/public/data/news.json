@@ -1,16 +1,5 @@
 [
   {
-    "id": "c8f8c86bc406c11fce90eb7709a6b6d8",
-    "title": "CDC confirms 37-case multistate hepatitis A outbreak linked to frozen clams - CIDRAP",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2VQNVA2aC1Cc2dBZ0xqTnhsRW10Zk0tMDdPZUNQN1VUZVl2bUdvb2ZDcm1PT1ZKRG56UDl6RF9JeFhOTTJyOWxxTkd3UWF5NkYzQndNcVAyQUFZWE1ycW9xYVVTQ21PVEs0WU5vRk5oQkRHUmJ3VnBhSGFLWFRObkdlSzMwSGJwZWswSHppdW1vT21rZjZwWnZWMUZxdkFFM2FyU1hKZF9oZVk?oc=5",
-    "source": "CIDRAP",
-    "published_at": "2026-09-22T19:44:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "2ffc5de76761650a6537d5ceb9bcc59f",
     "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk?oc=5",
@@ -33,10 +22,10 @@
     "country_iso3": []
   },
   {
-    "id": "44fe42e96ca356d7348aca52681d31d4",
-    "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern - Frontiers",
+    "id": "8bb9f085631cf9f60664dd88f2ebe4b7",
+    "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern - frontiersin.org",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9MOXJIT201MWpSc0NWWW9tV3VSYWd3dmFqaWhZeGdMWVZ2aVdMNVpud04xNmFYYjJOeHFJaVB4Q191U0N1YW1sd245UEx2RFRUZzNFbVc5TDJRUWR6b0o1WUk5d2Z5ZDE5YUhMVTA3dlZCMmZZTUNhUVVtMWxMV1FaaWVLSUZqRHpLbDhwZnZDaHdv?oc=5",
-    "source": "Frontiers",
+    "source": "frontiersin.org",
     "published_at": "2026-08-19T23:24:36+00:00",
     "tags": [
       "news"
@@ -79,9 +68,9 @@
   },
   {
     "id": "3059311d11bf3dd6d8b23c991aecc9f2",
-    "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - hhs.gov",
+    "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
-    "source": "hhs.gov",
+    "source": "HHS.gov",
     "published_at": "2026-06-24T07:00:00+00:00",
     "tags": [
       "news"
@@ -111,10 +100,10 @@
     "country_iso3": []
   },
   {
-    "id": "6b7349f44271146431d99720496a5eb5",
-    "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
+    "id": "d844e70fba366b16c531f4b8d749e6f7",
+    "title": "How our immune cells combat Andes hantavirus - lji.org",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
-    "source": "La Jolla Institute",
+    "source": "lji.org",
     "published_at": "2026-05-26T21:23:02+00:00",
     "tags": [
       "news"
@@ -380,6 +369,17 @@
     "country_iso3": []
   },
   {
+    "id": "91485a42b98b75758d780a1b618fd5d6",
+    "title": "More hantavirus cases emerge as passengers debark cruise ship - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkdvZzkyVFduQ1huSlFQa3F3c2E3dkpNZU40aUlHdXFWaUE1czdNY0xfOGNTMkw4Z0hXMm5OR2ZYMG9DakhWV2l0SFRhbTV2ZVk2VzZFTWJHaHhMNFZkU2RUNGNOZ0s2M2V3cFJfTzFHNzNGdzRXVzd1VFBnMW5fU19zVFl6MXJMQURzSHJuZjRoSzBtV0ZGY1VrOW4?oc=5",
+    "source": "CIDRAP",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "title": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius",
     "url": "https://www.government.nl/latest/weblogs/the-work-of-the-ministry-of-foreign-affairs/2026/medical-evacuation-from-cruise-ship-m-v-hondius",
     "source": "Government.nl",
@@ -395,10 +395,10 @@
     "id": "f3d773f64251c018f5f9f1afe933d4d6"
   },
   {
-    "id": "9847d15e073b7fb8a2783d7fde7c8161",
-    "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+    "id": "5846edd467e34cd332138adcab53b261",
+    "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - pbs.org",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-    "source": "PBS",
+    "source": "pbs.org",
     "published_at": "2026-05-09T07:00:00+00:00",
     "tags": [
       "news"
@@ -417,10 +417,10 @@
     "country_iso3": []
   },
   {
-    "id": "cbaf381638b9453ad66409aabb02e9ff",
-    "title": "What we know about the hantavirus outbreak - Johns Hopkins University",
+    "id": "257579ccf2aa899fdff3854e30410b3d",
+    "title": "What we know about the hantavirus outbreak - hub.jhu.edu",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yZXl4RGMxcGtQN0l1UWxDVHdDeU9ub2N5TnNSM0paNERSYXZvdUFyelZFMFJpZFRuOWRmc1RrT3Q0STM5WFp6WUs3U1k4Uzl6dlNxV2tzLXpfckloUkE5aGF6ZzZuanRGeng0bC1TVUlvZmVJeGJCUERn?oc=5",
-    "source": "Johns Hopkins University",
+    "source": "hub.jhu.edu",
     "published_at": "2026-05-08T07:00:00+00:00",
     "tags": [
       "news"
@@ -578,10 +578,10 @@
     "country_iso3": []
   },
   {
-    "id": "33e8d045caf31addad13702f201f84f4",
-    "title": "Can hantavirus spread between humans? What to know as WHO investigates ship outbreak - PBS",
+    "id": "bdfc67acc21d020fa5e1c06072c85bff",
+    "title": "Can hantavirus spread between humans? What to know as WHO investigates ship outbreak - pbs.org",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlRWaHNoMHEwNDNpVGRQRkQ0UVFJdkgxZF81eWZuejZDcEJiTUVwZVB3NG9KYnI0d3I1UFd4SXRxVUczMDFrSlhKZ3BqLWQzQ21wa3o3cEp4UU03V2d3anpnZ0tYRzM1M3l5MVhxaldHQlBSVzdHZTNiazM4aXc3US1OMHVENG9HZnVsOVEtVnJBLThTT3VwM0ZXWDA3Q2hGSlJlOTBldW1iVDhYblJHNGV2dVl6aXpr?oc=5",
-    "source": "PBS",
+    "source": "pbs.org",
     "published_at": "2026-05-05T07:00:00+00:00",
     "tags": [
       "news"
@@ -611,17 +611,6 @@
     "country_iso3": []
   },
   {
-    "id": "bd1807878b441f6c4ea6a84a0cdb6ecd",
-    "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak that has killed 3 people - PBS",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDZydV8xVndud2ZCbWFHRkRDYl84MVQ2M0Q3WDF6ZkY0dGprTTVHNnlWZE9lVjJYQk5nRlB3elp6N29wQ2tJT2dETHdackJtN3VqbzVOR2hXbWxwVS0tY1Nfc3ZyOWlBa1ZudVc1RVJLNnZ5dkFPWlROZmtGa1UzdFpTX3BlSmZHMWxmX1lPWDZFSGhoamlfUVpWTjBUemVfWTliTUctMFQ4TGlUUW5QVHRlSllhVDg4dUFIUWNGbW96SDMzdXRYMllGTDhHWERJbEYzOQ?oc=5",
-    "source": "PBS",
-    "published_at": "2026-05-04T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "563ef2c473f2805fb6f383148b0a58f4",
     "title": "Hantavirus crops up on a cruise ship — what scientists are watching - Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YeXhjeFJQUzBoOU5aNUo5SHFqYVp0RGFwNTlyOFFpTnlZcGpVc3RBd09MQ0FEdmEzLUkzSG1XX0NpdXdMSUl0ZlFSNkZ5bnBhOGNpYko0eC0wRjhhOHQw?oc=5",
@@ -637,6 +626,17 @@
     "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
     "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-05-04T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "6f18d9e2dc2f60e954867eea53a49e79",
+    "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak that has killed 3 people - pbs.org",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDZydV8xVndud2ZCbWFHRkRDYl84MVQ2M0Q3WDF6ZkY0dGprTTVHNnlWZE9lVjJYQk5nRlB3elp6N29wQ2tJT2dETHdackJtN3VqbzVOR2hXbWxwVS0tY1Nfc3ZyOWlBa1ZudVc1RVJLNnZ5dkFPWlROZmtGa1UzdFpTX3BlSmZHMWxmX1lPWDZFSGhoamlfUVpWTjBUemVfWTliTUctMFQ4TGlUUW5QVHRlSllhVDg4dUFIUWNGbW96SDMzdXRYMllGTDhHWERJbEYzOQ?oc=5",
+    "source": "pbs.org",
     "published_at": "2026-05-04T07:00:00+00:00",
     "tags": [
       "news"

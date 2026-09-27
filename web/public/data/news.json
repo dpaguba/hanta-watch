@@ -33,17 +33,6 @@
     "country_iso3": []
   },
   {
-    "id": "9c0e8e5672d7cdcdc0c12ef0c144272d",
-    "title": "Voss: Zoonotic diseases, part 2 - AspenTimes.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQcXZZdlhKX3hqWGVIMkJobGhqc1Y3MmcycFlIb0dLQ29YaEFacUxkVWs2YjJ3TWQ2Ukt5bVJEcnA2aW91d1Nyc1pVd1FfZXd1MVRUbWVWbUdqczFCXy1jMVNTMzltaDFmUHYzSDFrQQ?oc=5",
-    "source": "AspenTimes.com",
-    "published_at": "2026-09-21T19:01:56+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "c14082ced36c734961b727e976bbb4d4",
     "title": "Virginia Tech researchers studying Hantavirus impacts in the Commonwealth - WFXRtv",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnYtaFlYZHBCMEZ0U0tQU0k5eFBRYUxfb05lREFRZWxzcENwWnY0ZFRydDdxZ2xVYWxkZGRlWDlITkI0ZXlHTzlKRHNyS1NzbVBWUFFKRXVRQWZYZU9VcEVieDVPN0JtdjVaQTJVZUZXc1RPQzV4QlVWRURyRmJUVGRhNG9VNnkwSnpUb0ZCOXhYZHlUd3FBdTgwWTNWRnJtRFhpYXVDSm5MeFFHQlptbG9R0gG3AUFVX3lxTE9BQnZQOWpNSjR4QzJrUk5FSVE4RmhIYnJGNHlXNmZ4ejlUOWNNaTJyU3BGTlpSMDFBWmpxbjRxbmpZREVoazFpcG5yRkhnaHdVeWJ4VEJrNVFEeHZVSzRMNGFsS3REN2NwS21zTE95V0tXMWFZZ2poYzlzQ2NYSFVUWXhhbjJGbjNfQ3JxS0llY0ktVkMyaUdGRUhtMUNMQThzTlVSN3pMSW05Ym5rS3hmWVBhenJwWQ?oc=5",
@@ -166,10 +155,21 @@
     "country_iso3": []
   },
   {
-    "id": "efc20746281cebf070590f067766723e",
-    "title": "WHO declares hantavirus outbreak linked to cruise ship over - theguardian.com",
+    "id": "384c3bdc89034dbbfad12c538da58108",
+    "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-    "source": "theguardian.com",
+    "source": "The Guardian",
+    "published_at": "2026-07-02T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "0476a445eb5839743c694e3d31af4f4b",
+    "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
+    "source": "Al Jazeera",
     "published_at": "2026-07-02T07:00:00+00:00",
     "tags": [
       "news"
@@ -203,17 +203,6 @@
     "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
     "source": "CIDRAP",
-    "published_at": "2026-06-24T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "00424adfae114bed47edad55810be78a",
-    "title": "CDC ends US Hantavirus response - The Hill",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjVHUzU0ZkVOZGJma3hkS3FFQ0pTbDFFVmxHTHZ4eEtDRUZ0WGppNjhjN19yXzlBRDE3WGZ0Q3hWdE03cGtCQkVmM1VSUHRuMEttS0ZuLXJ5d0pCamEzZmwtRDd6TEZBYVdoeEc5TFNRQXNfVFV3YmN3X0FsYjdOWNIBhgFBVV95cUxOb1ViUVBZZFlyVVVNa294NFBDR0x2VWRZTTRNcUdFcXlTTU94cVF4eXhnU1FhVVAwNzZEWHVMaHpmX0xKbmZ4ODZQUElqV1hCNkkwVloyeGxuQTVlSldfVFMxYTRPVVpGQ0ZOdFIxVDEwbmRwOG9ELTNwbE00MUUyUWJDMEZ1Zw?oc=5",
-    "source": "The Hill",
     "published_at": "2026-06-24T07:00:00+00:00",
     "tags": [
       "news"
@@ -320,10 +309,10 @@
     "country_iso3": []
   },
   {
-    "id": "ce9f474224f469a4904c5800f63b8336",
-    "title": "Questions about hantavirus? We’ve got answers. - tpchd.org",
+    "id": "01bf6f8b6f950c45eab71135768a77ce",
+    "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
-    "source": "tpchd.org",
+    "source": "Tacoma-Pierce County Health Department",
     "published_at": "2026-05-21T07:00:00+00:00",
     "tags": [
       "news"
@@ -364,10 +353,10 @@
     "country_iso3": []
   },
   {
-    "id": "43ea110986da87d43c33dfac0a78eda8",
-    "title": "Hantavirus: What you need to know - vdh.virginia.gov",
+    "id": "87ed16fdb111fd592f65e9ef4dffe7d4",
+    "title": "Hantavirus: What you need to know - Virginia Department of Health (.gov)",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJKQmFMcm1KYVpHZlh6aEd5MnVzLXFvQzJSc1R5UzFTRllDdUZibU8wOW1yYll1b0xncERIX2FHQUk0WWFxaEZrbGZscHVTRHZuWmZtc3ByR2hKRTlNbmZoeEhqVDRkV1JnM0FXVFVNZUxWWE95RDJHai1Qb2RaYlFTY0FhYTdI?oc=5",
-    "source": "vdh.virginia.gov",
+    "source": "Virginia Department of Health (.gov)",
     "published_at": "2026-05-19T07:00:00+00:00",
     "tags": [
       "news"
@@ -397,10 +386,10 @@
     "country_iso3": []
   },
   {
-    "id": "5438a220a78f85922d6e93f8b7dcc5cc",
-    "title": "Hantavirus: Symptoms, Risks and How to Stay Safe - nyp.org",
+    "id": "6894c3db9ccd66a3e4ceefabecfcf3c6",
+    "title": "Hantavirus: Symptoms, Risks and How to Stay Safe - NewYork-Presbyterian",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZsNjVFOGJ3X0xiczM1NFFQNDRNLWNqanpoMmpvT0xRcXlxeG5DQU9OaHZhTmR0Rl8yek83cVJfelZiQklnRGFiRzlUVjZPRXhNYmRpdXJKTlpoMEhvM3Q3ZzJlbEtDVkh2Mkc5blFncTVxUXBaR0hoTEtvVHNzU1F1NUVSMjQ?oc=5",
-    "source": "nyp.org",
+    "source": "NewYork-Presbyterian",
     "published_at": "2026-05-14T07:00:00+00:00",
     "tags": [
       "news"
@@ -412,6 +401,17 @@
     "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
     "source": "KDHE.ks.gov",
+    "published_at": "2026-05-13T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "4e2c50c0f81502249ee2531fea33f59e",
+    "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
+    "source": "CIDRAP",
     "published_at": "2026-05-13T07:00:00+00:00",
     "tags": [
       "news"

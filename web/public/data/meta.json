@@ -1,25 +1,25 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-09-27T22:59:01.670021+00:00",
+  "generated_at": "2026-09-28T01:34:52.099029+00:00",
   "source_runs": {
     "who_don": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-09-27T22:58:59.687666+00:00",
+      "fetched_at": "2026-09-28T01:34:49.361320+00:00",
       "items": 5,
       "error": null
     },
     "ecdc": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-09-27T22:59:00.771653+00:00",
+      "fetched_at": "2026-09-28T01:34:50.673933+00:00",
       "items": 1,
       "error": null
     },
     "google_news": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-09-27T22:59:01.181115+00:00",
+      "fetched_at": "2026-09-28T01:34:51.461207+00:00",
       "items": 50,
       "error": null
     }

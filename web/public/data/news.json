@@ -22,10 +22,10 @@
     "country_iso3": []
   },
   {
-    "id": "dcc312b9ea841f1f61e6d7709cce1a28",
-    "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
+    "id": "80d14991c713b6dd01e2a66908724900",
+    "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
-    "source": "theconversation.com",
+    "source": "The Conversation",
     "published_at": "2026-08-26T07:00:00+00:00",
     "tags": [
       "news"
@@ -88,10 +88,10 @@
     "country_iso3": []
   },
   {
-    "id": "55e961cec0908c0cc70fd536a8d5eb09",
-    "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
+    "id": "1eb0c1f611d8eeaf02e777ba963c4de8",
+    "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-07-20T07:00:00+00:00",
     "tags": [
       "news"
@@ -110,33 +110,10 @@
     "country_iso3": []
   },
   {
-    "id": "efb3844dbb06bec1a74260c7c8e231e5",
-    "title": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
-    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON611",
-    "source": "WHO DON",
-    "published_at": "2026-07-02T18:27:48+00:00",
-    "tags": [
-      "WHO",
-      "official"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "384c3bdc89034dbbfad12c538da58108",
     "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
     "source": "The Guardian",
-    "published_at": "2026-07-02T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "1fd9eb48c62218fb6cb2d3da3b499694",
-    "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5",
-    "source": "Reuters",
     "published_at": "2026-07-02T07:00:00+00:00",
     "tags": [
       "news"
@@ -166,11 +143,22 @@
     "country_iso3": []
   },
   {
-    "id": "1480989deae2ea05c5eddac1eb44047e",
-    "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - cidrap.umn.edu",
+    "id": "1867b83b6e8c1cc1742a95f7ec3865b3",
+    "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-06-24T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "634e387dffc676094599d5a7f7a1010f",
+    "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-06-23T07:00:00+00:00",
     "tags": [
       "news"
     ],
@@ -188,10 +176,21 @@
     "country_iso3": []
   },
   {
-    "id": "e87537af546d704032d00364965566ed",
-    "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - science.org",
+    "id": "058288d23e515483b74875eae87bd8c6",
+    "title": "Twenty-one countries launch coordinated Andes virus research initiative following hantavirus outbreak - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY281cWdWVUZzY1JnRlBsWi16Q2VoRkdLUm9wV29DQUxLM0MtTzg0WjFlVEctdHZKOTFKWDViUDFhVDFsWk9zQm5oM3QwMkhnZ3d1emJYMlJla1NIM2JsZW1ldWJlYjUzbF9kMWkzMVFUaXBrREc1bzNHa21CRFJIQVVrYk85QzI5bUtyb1I2eVZ1eVRNWkh5d1pTcXNzQ2c4Zmo4T3RZVDkzVGMxZExRNjJyVGRwY3FmaGszMElxcDJQd1RyUVctcUFkblBHREswS1RMeVNSMC1KUQ?oc=5",
+    "source": "World Health Organization (WHO)",
+    "published_at": "2026-06-12T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "bde1f528fd58f0c88533dd231877d8ee",
+    "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-    "source": "science.org",
+    "source": "Science | AAAS",
     "published_at": "2026-06-11T07:00:00+00:00",
     "tags": [
       "news"
@@ -199,10 +198,10 @@
     "country_iso3": []
   },
   {
-    "id": "e3d55776b3c810a68775a933e2d7f83d",
-    "title": "Vaccines and therapeutics for Andes hantavirus - Nature",
+    "id": "b29f5517d3bf66d64f32a7a796c37e86",
+    "title": "Vaccines and therapeutics for Andes hantavirus - nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sVTRNZ1NPclZYX0IyTlBtQ3d0MkZSZHNTZV82dVJzNGFzZ09QOWhQeGVtdmI2U3RyZnN4dmRiZVg2SGI4bUUta0FkS0s4ek9IRnNQMV92Q2NLV2xpcUlr?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "published_at": "2026-06-09T07:00:00+00:00",
     "tags": [
       "news"
@@ -210,10 +209,10 @@
     "country_iso3": []
   },
   {
-    "id": "5cf52940b5dd185a19c9188cf018799f",
-    "title": "Andes hantavirus – A primer - Nature",
+    "id": "dec63b8a0bbff11b66c8ed704b0935cd",
+    "title": "Andes hantavirus – A primer - nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc2oyVG1YRUcyNVUwTkRhbTlTR2dhOXZza0gyWm00WjBldDNIdEFKZnQ0S0wzeUNxOTR3TXRPQmo4OUZYdkVHbkpRcm1fNWJsVzlRLWRwWXVZVmM2c0xv?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "published_at": "2026-06-05T07:00:00+00:00",
     "tags": [
       "news"
@@ -221,10 +220,10 @@
     "country_iso3": []
   },
   {
-    "id": "2daa3a1e3c257a43d5fb374a6e25c4ce",
-    "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - KFF",
+    "id": "14b6e449c035689c70289a37b539cb4f",
+    "title": "Hantavirus Outbreak Revives COVID-Era False Health Claims — The Monitor - kff.org",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjJieWkySjAwM2drWDBNdXRkcm82NVRwY1VlNVZxUXNESzNQZ3NGUWZLcW00eld1VkkwRXdrMHlXdE81Slp2Nkc4Z3pQQWVPN0tJTjdDTXJYMG5IMzE3dG8yaDdTdTJ5MWZrREVZNEt4M3k4dWMzS0pYcm9tSzlHQ0JnakZ2cjVPTl9Zcm9iNTRBRW1aTF9nZ3RZSDMwdldnNkRmc1Fn?oc=5",
-    "source": "KFF",
+    "source": "kff.org",
     "published_at": "2026-05-28T07:00:00+00:00",
     "tags": [
       "news"
@@ -309,10 +308,10 @@
     "country_iso3": []
   },
   {
-    "id": "26304432b0432acb20dc96877e31ac8c",
-    "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - cidrap.umn.edu",
+    "id": "018717bddf01befa5588412cfce28fa9",
+    "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-05-20T07:00:00+00:00",
     "tags": [
       "news"
@@ -320,10 +319,10 @@
     "country_iso3": []
   },
   {
-    "id": "43ea110986da87d43c33dfac0a78eda8",
-    "title": "Hantavirus: What you need to know - vdh.virginia.gov",
+    "id": "87ed16fdb111fd592f65e9ef4dffe7d4",
+    "title": "Hantavirus: What you need to know - Virginia Department of Health (.gov)",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJKQmFMcm1KYVpHZlh6aEd5MnVzLXFvQzJSc1R5UzFTRllDdUZibU8wOW1yYll1b0xncERIX2FHQUk0WWFxaEZrbGZscHVTRHZuWmZtc3ByR2hKRTlNbmZoeEhqVDRkV1JnM0FXVFVNZUxWWE95RDJHai1Qb2RaYlFTY0FhYTdI?oc=5",
-    "source": "vdh.virginia.gov",
+    "source": "Virginia Department of Health (.gov)",
     "published_at": "2026-05-19T07:00:00+00:00",
     "tags": [
       "news"
@@ -386,10 +385,10 @@
     "country_iso3": []
   },
   {
-    "id": "cd51ebdce1da6073e3f5928de7b46082",
-    "title": "CDC: Risk to general public from hantavirus is low - cidrap.umn.edu",
+    "id": "4e2c50c0f81502249ee2531fea33f59e",
+    "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
-    "source": "cidrap.umn.edu",
+    "source": "CIDRAP",
     "published_at": "2026-05-13T07:00:00+00:00",
     "tags": [
       "news"
@@ -442,10 +441,10 @@
     "country_iso3": []
   },
   {
-    "id": "6ecbba4269bb446ac4e66ebfd33f3eb0",
-    "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
+    "id": "d83845d4538d002af9c94da4b4ae51a8",
+    "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - kff.org",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
-    "source": "KFF",
+    "source": "kff.org",
     "published_at": "2026-05-12T07:00:00+00:00",
     "tags": [
       "news"
@@ -479,10 +478,10 @@
     "id": "777a5cf8d3e9df96a258b3fb3d07a447"
   },
   {
-    "id": "49aa27d6e842b26ea617b1bcf70b4811",
-    "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - Nature",
+    "id": "5be83064ca57fd3ee289683898894e7f",
+    "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - nature.com",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzazlQT3A1YVRzUFRwLUJSTVZLa3dFMkxFb1RwVU9nVHJDOW4wRUl1X2gyVzQwMkpWUENjSEluVWRkUGNVUEVaQ2pnREozemotd2N4bE5HLUNqSUVVdWFR?oc=5",
-    "source": "Nature",
+    "source": "nature.com",
     "published_at": "2026-05-11T07:00:00+00:00",
     "tags": [
       "news"
@@ -578,11 +577,11 @@
     "country_iso3": []
   },
   {
-    "id": "ca0f12a308bbc8d54d8af4c1f2195d13",
-    "title": "Hantavirus explained: What to know after the cruise ship outbreak - health.harvard.edu",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
-    "source": "health.harvard.edu",
-    "published_at": "2026-05-06T07:00:00+00:00",
+    "id": "97982af43cad61b15b610de28380362e",
+    "title": "WHO’s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
+    "source": "World Health Organization (WHO)",
+    "published_at": "2026-05-07T07:00:00+00:00",
     "tags": [
       "news"
     ],
@@ -600,10 +599,10 @@
     "country_iso3": []
   },
   {
-    "id": "bd8c21e8db4ca4f7ce367652dff7ddcd",
-    "title": "Cruise ship’s hantavirus outbreak puts researchers in uncharted territory - science.org",
+    "id": "c387a60dd218455e41df204f143ed75f",
+    "title": "Cruise ship’s hantavirus outbreak puts researchers in uncharted territory - Science | AAAS",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlhrUjJEVXZUQldZX05QZmd3Y2VBV19QMnNkQlQtV3VrajhMeXJnLXhYVGRKNlBJWVFFYkl1QXYySkJfcFZRWURnLW5fck9QTmxBOEI1di1iV1l2aDlKMkZBeHNway1KVVYwVVJicWtaeV9lam5BM2RDa0Vfd0I2NGNVZzRrOWJHLWQteEJiUVdSSkQtWGhjZWtlUDV2X0pkMHJUS1JJeW5QNmkyeVd3?oc=5",
-    "source": "science.org",
+    "source": "Science | AAAS",
     "published_at": "2026-05-06T07:00:00+00:00",
     "tags": [
       "news"
@@ -626,17 +625,6 @@
     "title": "What is hantavirus and how does it spread? - CNN",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0NQMWpCc3h3bHByOS1ieHNBcFF2ZG1NVVJKV0Z0ejJPRnByWkwxSzY1cjlUNWFXeTYxci1yWmtuOWp6R0xzdERBdGhteEVaWHUtQWEycjdlVjhkVE5waDRpMXdPYmIxblFpSXZLQ2g2U05zYlRNZWN3anR6NlQ5cWVB?oc=5",
     "source": "CNN",
-    "published_at": "2026-05-04T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "1342f3547acf348c599398b300998379",
-    "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
-    "source": "ABC News - Breaking News, Latest News and Videos",
     "published_at": "2026-05-04T07:00:00+00:00",
     "tags": [
       "news"

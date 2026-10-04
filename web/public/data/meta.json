@@ -1,33 +1,33 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-10-04T02:31:55.413121+00:00",
+  "generated_at": "2026-10-04T09:37:49.059627+00:00",
   "source_runs": {
     "who_don": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-10-04T02:31:46.515698+00:00",
+      "fetched_at": "2026-10-04T09:37:47.604876+00:00",
       "items": 5,
       "error": null
     },
     "ecdc": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-10-04T02:31:47.889395+00:00",
+      "fetched_at": "2026-10-04T09:37:48.106833+00:00",
       "items": 1,
       "error": null
     },
     "google_news": {
-      "ok": false,
-      "state": "error",
-      "fetched_at": "2026-10-04T02:31:48.240974+00:00",
-      "items": 0,
-      "error": "FetchError: HTTPStatusError: Server error '503 Service Unavailable' for url 'https://news.google.com/rss/search?q=hantavirus&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+      "ok": true,
+      "state": "ok",
+      "fetched_at": "2026-10-04T09:37:48.556954+00:00",
+      "items": 50,
+      "error": null
     }
   },
   "counts": {
     "outbreaks": 1,
     "countries": 13,
     "timeline_points": 35,
-    "news": 6
+    "news": 56
   }
 }

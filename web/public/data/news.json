@@ -188,17 +188,6 @@
     "country_iso3": []
   },
   {
-    "id": "018717bddf01befa5588412cfce28fa9",
-    "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-    "source": "CIDRAP",
-    "published_at": "2026-05-20T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "87ed16fdb111fd592f65e9ef4dffe7d4",
     "title": "Hantavirus: What you need to know - Virginia Department of Health (.gov)",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJKQmFMcm1KYVpHZlh6aEd5MnVzLXFvQzJSc1R5UzFTRllDdUZibU8wOW1yYll1b0xncERIX2FHQUk0WWFxaEZrbGZscHVTRHZuWmZtc3ByR2hKRTlNbmZoeEhqVDRkV1JnM0FXVFVNZUxWWE95RDJHai1Qb2RaYlFTY0FhYTdI?oc=5",
@@ -373,6 +362,17 @@
     "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzazlQT3A1YVRzUFRwLUJSTVZLa3dFMkxFb1RwVU9nVHJDOW4wRUl1X2gyVzQwMkpWUENjSEluVWRkUGNVUEVaQ2pnREozemotd2N4bE5HLUNqSUVVdWFR?oc=5",
     "source": "Nature",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "91485a42b98b75758d780a1b618fd5d6",
+    "title": "More hantavirus cases emerge as passengers debark cruise ship - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkdvZzkyVFduQ1huSlFQa3F3c2E3dkpNZU40aUlHdXFWaUE1czdNY0xfOGNTMkw4Z0hXMm5OR2ZYMG9DakhWV2l0SFRhbTV2ZVk2VzZFTWJHaHhMNFZkU2RUNGNOZ0s2M2V3cFJfTzFHNzNGdzRXVzd1VFBnMW5fU19zVFl6MXJMQURzSHJuZjRoSzBtV0ZGY1VrOW4?oc=5",
+    "source": "CIDRAP",
     "published_at": "2026-05-11T07:00:00+00:00",
     "tags": [
       "news"

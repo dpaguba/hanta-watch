@@ -77,17 +77,6 @@
     "country_iso3": []
   },
   {
-    "id": "2ffc8e91dada2f55ce8c92fb0290a2b0",
-    "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n?oc=5",
-    "source": "KOTA Territory News",
-    "published_at": "2026-09-23T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "2ffc5de76761650a6537d5ceb9bcc59f",
     "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk?oc=5",
@@ -408,6 +397,17 @@
     "country_iso3": []
   },
   {
+    "id": "ea79b2f61ca0edb959b5781909a904ed",
+    "title": "Clinical management of hantavirus infection, including Andes virus disease: Interim regional guidance for suspected or confirmed cases - Pan American Health Organization (PAHO)",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJGb2J2SV9udUhMZDBTQ2cwYkttSXBOWm42WjIxY1hxZC1vYl9UVzY3X0wyVWlwUjM1ZFcwNFlpM2NPc2VCNnYtTTRrSTRsSXcxWUpkaXNJc3J1ZDF2dmxOcV8tWHhLZ1czd1VkdVhLU0I2VzI1REpqa0pRbjFVN3ZtWXlENnJja3BteHZwTFlhT09SQ2hPVlZHMDhYdzhOYVJPcHNLU25Db1NVUnRVb3Z1MU91Njg2YTlfdGt3?oc=5",
+    "source": "Pan American Health Organization (PAHO)",
+    "published_at": "2026-05-22T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "01bf6f8b6f950c45eab71135768a77ce",
     "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
@@ -424,6 +424,17 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
     "source": "WSU Insider",
     "published_at": "2026-05-21T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "03d7920e86590c1fbc907591cc7e53f0",
+    "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+    "source": "World Health Organization (WHO)",
+    "published_at": "2026-05-20T07:00:00+00:00",
     "tags": [
       "news"
     ],
@@ -554,17 +565,6 @@
       "USA"
     ],
     "id": "777a5cf8d3e9df96a258b3fb3d07a447"
-  },
-  {
-    "id": "49aa27d6e842b26ea617b1bcf70b4811",
-    "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzazlQT3A1YVRzUFRwLUJSTVZLa3dFMkxFb1RwVU9nVHJDOW4wRUl1X2gyVzQwMkpWUENjSEluVWRkUGNVUEVaQ2pnREozemotd2N4bE5HLUNqSUVVdWFR?oc=5",
-    "source": "Nature",
-    "published_at": "2026-05-11T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
   },
   {
     "title": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius",

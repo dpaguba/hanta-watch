@@ -309,17 +309,6 @@
     "country_iso3": []
   },
   {
-    "id": "4e2c50c0f81502249ee2531fea33f59e",
-    "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
-    "source": "CIDRAP",
-    "published_at": "2026-05-13T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "title": "More hantavirus cases emerge as passengers debark cruise ship",
     "url": "https://www.cidrap.umn.edu/misc-emerging-topics/more-hantavirus-cases-emerge-passengers-debark-cruise-ship",
     "source": "CIDRAP",
@@ -400,6 +389,17 @@
       "USA"
     ],
     "id": "777a5cf8d3e9df96a258b3fb3d07a447"
+  },
+  {
+    "id": "91485a42b98b75758d780a1b618fd5d6",
+    "title": "More hantavirus cases emerge as passengers debark cruise ship - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkdvZzkyVFduQ1huSlFQa3F3c2E3dkpNZU40aUlHdXFWaUE1czdNY0xfOGNTMkw4Z0hXMm5OR2ZYMG9DakhWV2l0SFRhbTV2ZVk2VzZFTWJHaHhMNFZkU2RUNGNOZ0s2M2V3cFJfTzFHNzNGdzRXVzd1VFBnMW5fU19zVFl6MXJMQURzSHJuZjRoSzBtV0ZGY1VrOW4?oc=5",
+    "source": "CIDRAP",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
   },
   {
     "title": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius",

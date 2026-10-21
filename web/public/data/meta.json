@@ -1,26 +1,26 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-10-21T10:01:30.739643+00:00",
+  "generated_at": "2026-10-21T15:08:06.652353+00:00",
   "source_runs": {
     "who_don": {
-      "ok": true,
-      "state": "ok",
-      "fetched_at": "2026-10-21T10:01:28.204304+00:00",
-      "items": 5,
-      "error": null
+      "ok": false,
+      "state": "error",
+      "fetched_at": "2026-10-21T15:08:05.777968+00:00",
+      "items": 0,
+      "error": "FetchError: HTTPStatusError: Client error '400 Bad Request' for url 'https://www.who.int/api/news/diseaseoutbreaknews?$orderby=PublicationDate%20desc&$top=100'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
     },
     "ecdc": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-10-21T10:01:29.444955+00:00",
+      "fetched_at": "2026-10-21T15:08:05.938695+00:00",
       "items": 1,
       "error": null
     },
     "google_news": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-10-21T10:01:30.147560+00:00",
-      "items": 50,
+      "fetched_at": "2026-10-21T15:08:06.254382+00:00",
+      "items": 45,
       "error": null
     }
   },
@@ -28,6 +28,6 @@
     "outbreaks": 1,
     "countries": 13,
     "timeline_points": 35,
-    "news": 56
+    "news": 50
   }
 }

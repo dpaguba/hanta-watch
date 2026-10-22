@@ -110,18 +110,6 @@
     "country_iso3": []
   },
   {
-    "id": "efb3844dbb06bec1a74260c7c8e231e5",
-    "title": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
-    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON611",
-    "source": "WHO DON",
-    "published_at": "2026-07-02T18:27:48+00:00",
-    "tags": [
-      "WHO",
-      "official"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "3059311d11bf3dd6d8b23c991aecc9f2",
     "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
@@ -214,17 +202,6 @@
     "title": "Questions about hantavirus? We’ve got answers. - Tacoma-Pierce County Health Department",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OEJYM2UwelBEcVhuVkg3aGhCa0V3VDZKdHc2b1NWbmkwRGpnZ29IMGl2T1NCcWRSRG1OdVIwUmJ3Z3VfNUZ0RG14UEFMczZhUkpReFI5VDZ0d01jRFZDaC1XeXJjdFE4cE9GOVRfOVVJMkppWnc?oc=5",
     "source": "Tacoma-Pierce County Health Department",
-    "published_at": "2026-05-21T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "8b11f2dc2e9a9f0f26bc35b614634bb5",
-    "title": "2026 Current Hantavirus Situation - County of San Diego (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblpIZVBNek5tLWNrLWtrYW1nandBX2otVTRmdUtqQUs0M2QzUVJQU004YXRLZ3k5aVdFMk5XWWtURHNTalBOeUR0NkNfVFNvZm5zR29veUhSTVhpRkptbV9Pa2ZidHRXM2ZZZU52TUhoazNCWnNINEVnWnpldUFfcXhpbVVZaEdYUGNjS3JNQU8ySk1GeVdSbGlIWXB3LXdISFViNy1HNGRNTzc0M2RyUTJEQmVLRFM0OW94UW5NQ1Q?oc=5",
-    "source": "County of San Diego (.gov)",
     "published_at": "2026-05-21T07:00:00+00:00",
     "tags": [
       "news"
@@ -611,10 +588,10 @@
     "country_iso3": []
   },
   {
-    "id": "bd1807878b441f6c4ea6a84a0cdb6ecd",
-    "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak that has killed 3 people - PBS",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDZydV8xVndud2ZCbWFHRkRDYl84MVQ2M0Q3WDF6ZkY0dGprTTVHNnlWZE9lVjJYQk5nRlB3elp6N29wQ2tJT2dETHdackJtN3VqbzVOR2hXbWxwVS0tY1Nfc3ZyOWlBa1ZudVc1RVJLNnZ5dkFPWlROZmtGa1UzdFpTX3BlSmZHMWxmX1lPWDZFSGhoamlfUVpWTjBUemVfWTliTUctMFQ4TGlUUW5QVHRlSllhVDg4dUFIUWNGbW96SDMzdXRYMllGTDhHWERJbEYzOQ?oc=5",
-    "source": "PBS",
+    "id": "048e78cb2acf68519a5617df751feb04",
+    "title": "What is hantavirus and how does it spread? - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0NQMWpCc3h3bHByOS1ieHNBcFF2ZG1NVVJKV0Z0ejJPRnByWkwxSzY1cjlUNWFXeTYxci1yWmtuOWp6R0xzdERBdGhteEVaWHUtQWEycjdlVjhkVE5waDRpMXdPYmIxblFpSXZLQ2g2U05zYlRNZWN3anR6NlQ5cWVB?oc=5",
+    "source": "CNN",
     "published_at": "2026-05-04T07:00:00+00:00",
     "tags": [
       "news"
@@ -626,6 +603,17 @@
     "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
     "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-05-04T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "bd1807878b441f6c4ea6a84a0cdb6ecd",
+    "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak that has killed 3 people - PBS",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDZydV8xVndud2ZCbWFHRkRDYl84MVQ2M0Q3WDF6ZkY0dGprTTVHNnlWZE9lVjJYQk5nRlB3elp6N29wQ2tJT2dETHdackJtN3VqbzVOR2hXbWxwVS0tY1Nfc3ZyOWlBa1ZudVc1RVJLNnZ5dkFPWlROZmtGa1UzdFpTX3BlSmZHMWxmX1lPWDZFSGhoamlfUVpWTjBUemVfWTliTUctMFQ4TGlUUW5QVHRlSllhVDg4dUFIUWNGbW96SDMzdXRYMllGTDhHWERJbEYzOQ?oc=5",
+    "source": "PBS",
     "published_at": "2026-05-04T07:00:00+00:00",
     "tags": [
       "news"

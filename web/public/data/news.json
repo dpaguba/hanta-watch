@@ -33,6 +33,17 @@
     "country_iso3": []
   },
   {
+    "id": "5ae5a1dfec4235e965d6825c411401db",
+    "title": "Albert Einstein College of Medicine maps Andes hantavirus entry to guide new drugs - DongA Science",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrZjZqN0hJV2kzNmJpVmFjdVJmX0Z6WmhTVHYwbThtYmswZUZMdU1UXzdpUDl5R1RTS0dYNzlsRGpUQ3FPT00wNFNfRUFzeXJDWFFkTg?oc=5",
+    "source": "DongA Science",
+    "published_at": "2026-10-21T20:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "e2a7ac03996acf0105da82a60b32b080",
     "title": "Scientists reveal how deadly Andes hantavirus attaches to human cells - Phys.org",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnRKVGJoZWNvRnZFNnBKQmZDSjJQYUxFVFE0MjBiQUxWY1R6MlNVaG52bEpERnZJN0drQmFEeWFrNXNiWFNlbTVDVTJXejJndlBVemVQcms1OVZMLUFTTFhob1l1ZnVQM1NwTnAybjN3alg0S0FXX01iM2V6cVFMUFV3?oc=5",
@@ -88,17 +99,6 @@
     "country_iso3": []
   },
   {
-    "id": "2e287eb741341041f8c7d99d98cc4ea0",
-    "title": "2026 News - Maryland School of Medicine",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-    "source": "Maryland School of Medicine",
-    "published_at": "2026-07-22T20:26:42+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "1eb0c1f611d8eeaf02e777ba963c4de8",
     "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
@@ -106,6 +106,18 @@
     "published_at": "2026-07-20T07:00:00+00:00",
     "tags": [
       "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "efb3844dbb06bec1a74260c7c8e231e5",
+    "title": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON611",
+    "source": "WHO DON",
+    "published_at": "2026-07-02T18:27:48+00:00",
+    "tags": [
+      "WHO",
+      "official"
     ],
     "country_iso3": []
   },

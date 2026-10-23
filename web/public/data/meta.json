@@ -1,33 +1,33 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-10-23T14:56:49.859679+00:00",
+  "generated_at": "2026-10-23T19:05:48.087987+00:00",
   "source_runs": {
     "who_don": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-10-23T14:56:44.984682+00:00",
+      "fetched_at": "2026-10-23T19:05:46.256871+00:00",
       "items": 5,
       "error": null
     },
     "ecdc": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-10-23T14:56:46.404380+00:00",
+      "fetched_at": "2026-10-23T19:05:47.128411+00:00",
       "items": 1,
       "error": null
     },
     "google_news": {
-      "ok": false,
-      "state": "error",
-      "fetched_at": "2026-10-23T14:56:49.257561+00:00",
-      "items": 0,
-      "error": "FetchError: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.google.com/sorry/index?continue=https://news.google.com/rss/search%3Fq%3Dhantavirus%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&hl=en-US&q=EgQE8sOcGLHr7dYGIjBmh4utx2yim9RmwmgnJHHGad4d7z_hqax28eLN-UkBZWC9rEJ13BPGkxPjjpxAmcUyA2NyUloBQ2Dhgsrd1eKtxM4B'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+      "ok": true,
+      "state": "ok",
+      "fetched_at": "2026-10-23T19:05:47.504543+00:00",
+      "items": 50,
+      "error": null
     }
   },
   "counts": {
     "outbreaks": 1,
     "countries": 13,
     "timeline_points": 35,
-    "news": 6
+    "news": 56
   }
 }

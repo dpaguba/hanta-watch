@@ -11,44 +11,11 @@
     "country_iso3": []
   },
   {
-    "id": "29e0336473880055ff4cdefe3ba1a9d0",
-    "title": "Andes Hantavirus: What New Research Means for Clinical Preparedness - National Emerging Special Pathogens Training & Education Center",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGI3NE5Ic3QxRGFHN3V6MFJqblBCcW5lcHpOb09DTlFLMXFOY0JNNElwWUUxUzBiV1p3eVQ5NnMyYXpYUDZxYzFiS3hGNDNEbEJfWU1CZkl2OEZ1MmlHR1VJdkFPa09UUjB3MkRQV3NQbzVIZDh1SXdqYmNwWEcxQjFyVmhaSFlPd29ucW55WFk0MXFjQXNGbnlkRFk?oc=5",
-    "source": "National Emerging Special Pathogens Training & Education Center",
-    "published_at": "2026-10-23T19:10:24+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "01f4c950b3ee5666d887e22fd2b8b56f",
     "title": "Structural basis for protocadherin-1 recognition by New World hantaviruses - Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTXVLOWtHeTlyZEYtSHVMemdBVktNRWkxeTM1NjhHVThlR28tUEZ6UmlpcU1RT3NoaVR5MWJVSzhyVEY2Mi0zV1dSU2F1dDNLLWJmcEs1ZGE4?oc=5",
     "source": "Nature",
     "published_at": "2026-10-21T22:46:06+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "715d703911e0067d3b2c8b923c5db4ba",
-    "title": "LSU Health Shreveport Researchers Help Unlock How Deadly Hantavirus Infects Human Cells - klax-tv.com",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMmRWdkxkVHRldGN3cjN0NzF5SjhiSVM1T3NHVUtOWDAxS1QxYkctZHVleE1jcF9nUXF2R2F1eXhhZmRGQXBLZ29BSzU3TEh5dUJXZ0Q2YUl3dFc4OWR4VHRaTDFKT1J2TnRkaEhoUXJSY0JBbFQ2bTdXYWNGM00tb1JXSnYtQkVRUXNlRzFQOHRUTHBIWFNTQm52RUtHdFByakNLVTRrTXpmUU1uWDNTTk04VHdMOU14WW91WkQ3UU82eW8yODFIdkV1ZDhiNXVBN0RPNmwybVF5NHJJclBGZml0TEdzQWFKa18xMDZDMzc0MXdaTjBrZzBB?oc=5",
-    "source": "klax-tv.com",
-    "published_at": "2026-10-21T17:31:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "e2a7ac03996acf0105da82a60b32b080",
-    "title": "Scientists reveal how deadly Andes hantavirus attaches to human cells - Phys.org",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnRKVGJoZWNvRnZFNnBKQmZDSjJQYUxFVFE0MjBiQUxWY1R6MlNVaG52bEpERnZJN0drQmFEeWFrNXNiWFNlbTVDVTJXejJndlBVemVQcms1OVZMLUFTTFhob1l1ZnVQM1NwTnAybjN3alg0S0FXX01iM2V6cVFMUFV3?oc=5",
-    "source": "Phys.org",
-    "published_at": "2026-10-21T15:00:15+00:00",
     "tags": [
       "news"
     ],
@@ -232,6 +199,28 @@
     "country_iso3": []
   },
   {
+    "id": "018717bddf01befa5588412cfce28fa9",
+    "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
+    "source": "CIDRAP",
+    "published_at": "2026-05-20T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "03d7920e86590c1fbc907591cc7e53f0",
+    "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+    "source": "World Health Organization (WHO)",
+    "published_at": "2026-05-20T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "87ed16fdb111fd592f65e9ef4dffe7d4",
     "title": "Hantavirus: What you need to know - Virginia Department of Health (.gov)",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJKQmFMcm1KYVpHZlh6aEd5MnVzLXFvQzJSc1R5UzFTRllDdUZibU8wOW1yYll1b0xncERIX2FHQUk0WWFxaEZrbGZscHVTRHZuWmZtc3ByR2hKRTlNbmZoeEhqVDRkV1JnM0FXVFVNZUxWWE95RDJHai1Qb2RaYlFTY0FhYTdI?oc=5",
@@ -280,6 +269,17 @@
     "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
     "source": "KDHE.ks.gov",
+    "published_at": "2026-05-13T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "4e2c50c0f81502249ee2531fea33f59e",
+    "title": "CDC: Risk to general public from hantavirus is low - CIDRAP",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0d1bzlLVWQ0b2Y0T29vV25Ec1VUZ19ZbUZ5TlU1UkZqdVdoVmc3VXFNZmVoZUt0MVhDM1VCN3dhYm1wVkMyVVBJb1FDZE5lQ0k5TkQ2SGFxMGpneE1zT3NXUUVmbENyWFhBbmpBVHJpS2lPMEpzaDFFbjFxUzNiNFN3?oc=5",
+    "source": "CIDRAP",
     "published_at": "2026-05-13T07:00:00+00:00",
     "tags": [
       "news"
@@ -417,10 +417,10 @@
     "country_iso3": []
   },
   {
-    "id": "9a930524e46513ee01ca3dde1ad9efa0",
-    "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
-    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "id": "80eb35aefc35d7dccb90c65fac9953ee",
+    "title": "NJDOH Monitoring Two New Jersey Residents Following Potential Hantavirus Exposure Linked to MV Hondius - NJ.gov",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQcW5nYThsbUExcmx6eFdoa2FzX3VrUl9TNHdJbENLbFkyOTk3Nm00MXNYWWlWem5oRmliQjMyWTVRRU1zWVFnYnNycnRHcE5xQWhxZU1pRUFwdDRaZ3ZSOS02YVJKZzQtSnJPSg?oc=5",
+    "source": "NJ.gov",
     "published_at": "2026-05-08T07:00:00+00:00",
     "tags": [
       "news"
@@ -428,10 +428,10 @@
     "country_iso3": []
   },
   {
-    "id": "80eb35aefc35d7dccb90c65fac9953ee",
-    "title": "NJDOH Monitoring Two New Jersey Residents Following Potential Hantavirus Exposure Linked to MV Hondius - NJ.gov",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQcW5nYThsbUExcmx6eFdoa2FzX3VrUl9TNHdJbENLbFkyOTk3Nm00MXNYWWlWem5oRmliQjMyWTVRRU1zWVFnYnNycnRHcE5xQWhxZU1pRUFwdDRaZ3ZSOS02YVJKZzQtSnJPSg?oc=5",
-    "source": "NJ.gov",
+    "id": "9a930524e46513ee01ca3dde1ad9efa0",
+    "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
     "published_at": "2026-05-08T07:00:00+00:00",
     "tags": [
       "news"

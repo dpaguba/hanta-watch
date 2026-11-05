@@ -22,6 +22,17 @@
     "country_iso3": []
   },
   {
+    "id": "761a1035119d6240e9916805ff066322",
+    "title": "An outbreak of \"mouse fever\" has been recorded in Russia; more than 1,500 people have fallen ill in five regions - Українські Національні Новини (УНН)",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZmZGV2Nfem5DZVVpZFdlM2RYdWdPRXJ4S1prSkU3YzJxV3VLUmJ2Ymg5bFltQW5sRHF5MDg4RHFGNjFEOEhMQlZ5b0FFalpSRUdkYTZteFdieWNpYzdMa1hTb1RlSTQwZU1Nakx6UkRuMlBZYjJVYlFGam8wcVpOQUp3SXB5Qmt1RWFkTWNFc3NoVXptNGkyY2Nsa1AtcnBaZ2xLY0NjcmtYVkowLVhvOWdLUkI1RkJRcU1FTHpVTjY2RUF4TUlwVmNrUdIBygFBVV95cUxNT0lPWjVjb2FlSzR3Q3JhV0VMNGN2eWFtdHZycDFlQWNoY000azFJdFpuUkJ3NDZ1WXlRWkFacjRna0hvSFkwSXo2OTdaVUdyR3pUVXA1aWhsT1R4RkdpYi1LQXA2aUdkOHhqSFQtZzZZakRXRUpVQkZHb3pRTXN5bzlUZmhodzJFNTNsX0QwcXQxQ09MRWd4UG45MUZVTTBmRDNCUURWRl91aUpxaWJ3TkRBZzdmcTNwQWlhQXBCRGxncFV2SThyNmhn?oc=5",
+    "source": "Українські Національні Новини (УНН)",
+    "published_at": "2026-11-03T02:05:10+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "8c42b7d148226cb469ec45d10fea551f",
     "title": "WHO: Ebola and hantavirus outbreaks make pandemic treaty urgent - وكالة سوا الإخبارية",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDF4S0pnb2pLeXZNV3FSUUVKY3E1c2VJd0t2OHdKMFVPTmhGVE1mbDF3cl9Fc2prUWUxX0V1QTJ3eE5TaXBOeVk2dGtwYThINkFPc2tTSml6NFBXRWk0alcyUTZxOU1yWnJ4VkRCcDljRHcxNTd3Y29DOEVxMS04T2JIQ1F1Q2ttdTJzMWFFLUlUbFNVU0lXejFPVUphRVY5QWVzQ2NsNkduZEpZTzZn?oc=5",
@@ -49,17 +60,6 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2REYThxbmE5VzBmd1VsRjJyQk5Va0E0WWJSOUJEeGFtWDAzU3BvUV9WYUgtWVFqbmhOQXh4Qjl4ZUVoTFBYZHd4SS1OcS1OSzRtZ0Y4NUhMYklzTEVZYkRsMV9IY294NXR3YVllaHJ3LTJlRGp3eWxHR0RsTk5qLVc2OGVBUjZZR1ZWRUhXLWZkalFwc1ZCNURhVW5IblFP?oc=5",
     "source": "Head Topics",
     "published_at": "2026-11-02T15:13:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "dd45c22f78484ac5b969af8145d256f2",
-    "title": "Tracking Hantavirus Through Sequencing - Infectious Disease Special Edition",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEU1cS1zWkxxV1NuM2N6UmJ6cXY2akN6bV91ZTBTdU1vSmcxUjRwdk4zMTJINGlucFZSU040cU1HcFpNRkdLZWpNZnJBYUJwU19QWGhVWTUtSTRORkdhbWVDeFAybFlpLXpUZFA2OFMzeF9aMExrTVA4a0tQT2xEYV80dUtUNzNva1F1d1VWNzBEeEszUExvQVRVcGszR2t1WWVCMW1Qcw?oc=5",
-    "source": "Infectious Disease Special Edition",
-    "published_at": "2026-10-31T04:01:11+00:00",
     "tags": [
       "news"
     ],
@@ -210,21 +210,21 @@
     "country_iso3": []
   },
   {
-    "id": "86b9e0af976668ff44809c7c5d8bc8bc",
-    "title": "Hantavirus: What You Need to Know About the Virus - Unric",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-    "source": "Unric",
-    "published_at": "2026-05-17T07:00:00+00:00",
+    "id": "4050162a236daaf85c54670c789d0472",
+    "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - seMissourian",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbldqQklEZWV3Nk0yLVRhSVRiQWZqeUJfZEtFNjJQTnNNVUVOZzNBTE5oNTltTzk2RDJySjg5TWg0cmpRNHhVWk9WNlRYVlRKdVVxWVFOdmpKa05JOU1zZ19MT2dvY3hadzdTTTZwd05FcUUyOWpBVlFSRE8zZ3U1cy1HLVFuRmZmYktxS0xGMjVaYnhKT3FfaTFCLURrNzJYdXF2UjFERnNySUYwZjgxVE5sWQ?oc=5",
+    "source": "seMissourian",
+    "published_at": "2026-05-18T07:00:00+00:00",
     "tags": [
       "news"
     ],
     "country_iso3": []
   },
   {
-    "id": "9dd20d06d5c35dcf45e13ddd9ec20b1b",
-    "title": "Demand for cruises appears undimmed despite hantavirus and o... - seMissourian",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGpDUFBKMUJiRDRXWlVTZ2piRlJIdW9pZmUxUlNHYkN6UndWLTJ1dkljQm8zZkNkaVZrcDNCUHoxY1ZuSFUyYjNYR2luTXJzRzN5RERQWG1QdEpQeTBQc21oaGx5LVZ3b1otcEY4Z0lldWN2NGhXNy1hcTRuakhlOFF2YjUzLWlmdVdMbzJCR2cyZjVFT3pSUVlPWnp5cFNkOEhwTWpFVzFnemo1SkdhQUJ4bUJ1cnB1X3JzNF9qclVwbWNw?oc=5",
-    "source": "seMissourian",
+    "id": "86b9e0af976668ff44809c7c5d8bc8bc",
+    "title": "Hantavirus: What You Need to Know About the Virus - Unric",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
+    "source": "Unric",
     "published_at": "2026-05-17T07:00:00+00:00",
     "tags": [
       "news"
@@ -479,6 +479,17 @@
     "country_iso3": []
   },
   {
+    "id": "a55e222563311c8f4a62e19e13874afe",
+    "title": "Nothing Can Sink the Cruise Ship - by Jillian Lederman - The Free Press",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bDNncm5wM0J5RDdBc2RjT2pRV2hYSzZOalJWNUxoRU9nanBscEpaYVA2LWl0eXJ4S1gzUTB3SzE3eEhNenQ2bUdGU0NvVjZvTGxOTWNEbllKZw?oc=5",
+    "source": "The Free Press",
+    "published_at": "2026-05-07T00:19:17+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "c387a60dd218455e41df204f143ed75f",
     "title": "Cruise ship’s hantavirus outbreak puts researchers in uncharted territory - Science | AAAS",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlhrUjJEVXZUQldZX05QZmd3Y2VBV19QMnNkQlQtV3VrajhMeXJnLXhYVGRKNlBJWVFFYkl1QXYySkJfcFZRWURnLW5fck9QTmxBOEI1di1iV1l2aDlKMkZBeHNway1KVVYwVVJicWtaeV9lam5BM2RDa0Vfd0I2NGNVZzRrOWJHLWQteEJiUVdSSkQtWGhjZWtlUDV2X0pkMHJUS1JJeW5QNmkyeVd3?oc=5",
@@ -523,10 +534,10 @@
     "country_iso3": []
   },
   {
-    "id": "bd0074161d4ee984f00ea51de9f6ce62",
-    "title": "Hantavirus on cruise ship confirmed as rare type that can spread human-to-human - NPR",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96VTF3eDVhdnEyc1puOEhsbUhZMkxUTzJYQVNIOGJwekNpRHJiTWlrSHBNQ1Zjd2Jvd283Wjd5LVJidlpSakJ0QzYyX1ZxcW93bzdqOFFRU05VTXY4YjBpSHRURlIyeldSeFNIblNZQzl5SDg?oc=5",
-    "source": "NPR",
+    "id": "07bc75641397f3dafe3b46ee09ce44d7",
+    "title": "Hantavirus cruise ship heads for Spain’s Canary Islands as officials race to trace victims’ contacts - CNN",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMUh4bEtiS0FhWE5ubTMyQVpmUk5tNVl6dldoM0sxUnc5QkdHcmlHMzVNRUt5LVRYM2J4UnlSMk82Y1lrNldtOC13dDZaWU1LVVNQeE1lWW80dzNBX2RTR25MaVBLVnNqQTNoZFRwWTVBYlNnR1BPVw?oc=5",
+    "source": "CNN",
     "published_at": "2026-05-05T07:00:00+00:00",
     "tags": [
       "news"
@@ -545,11 +556,11 @@
     "country_iso3": []
   },
   {
-    "id": "563ef2c473f2805fb6f383148b0a58f4",
-    "title": "Hantavirus crops up on a cruise ship — what scientists are watching - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YeXhjeFJQUzBoOU5aNUo5SHFqYVp0RGFwNTlyOFFpTnlZcGpVc3RBd09MQ0FEdmEzLUkzSG1XX0NpdXdMSUl0ZlFSNkZ5bnBhOGNpYko0eC0wRjhhOHQw?oc=5",
-    "source": "Nature",
-    "published_at": "2026-05-04T07:00:00+00:00",
+    "id": "e1adbe6b6d3f0d00bd8e3879ebf4c87b",
+    "title": "Three dead in suspected hantavirus outbreak aboard cruise ship in the Atlantic Ocean, WHO says - PBS",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzFnN2hnWkRqMVJza1otYnpwdGF1OHROLWtuWlROaE56TjNKbTZUYTNnYno1aDMxNDZCYThjUWd3NXhGVE05eGJ5ZnpvRmdrazJlM0hNNjVlaTFHMHo0YkU3YkN3clZEbkNSa2lPT0NGTXpJLTdtQkpTNFhUVFZqdDlMSUpYMFd4MlFHWGtTcEdyYTBQWGpxRXpTUG1fTGJkN1dkZ0pVWllVOUNiRkd5cU1DaEFydEgwUEkxVjlRU1NGbnd5VVFZ?oc=5",
+    "source": "PBS",
+    "published_at": "2026-05-03T07:00:00+00:00",
     "tags": [
       "news"
     ],
@@ -572,17 +583,6 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTU0zZVdyT1dIUTlmWl9kN2JZTUR0MXlxallhbjJueXV2NXdHMmlSTkpBVUNhZU9ISWF4UzdjNDZBUUpTOFdHckdVdWJBOG81eHJoSDMxUzhfVlF5aW5ZM1B4SWhqMnEzcVB0NUlLU0VKY21VVUJxWGl1ZjhmbjZFZHMyUEVDWkXSAYwBQVVfeXFMTl9EcGlWWkhWQXZBSllyTUk1VGVaYW00YTdYMXplNVJxWml2Ylo4NHEtZ3JPdXFkcGVZZTBoV0FDQzNFSXBwNDJXZFRaalFPbmtxb0pwRVJfdW9lOER0RndEWFEyRjdDclQ3blVOMF9GaWJHaDF6bnc4cnFYb3BHNE5NMF9YcnF0TVc1YWY?oc=5",
     "source": "San Diego County News Center",
     "published_at": "2025-03-11T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "71084bc007af2397284c341c3ce3471e",
-    "title": "Hantavirus: New Mexico's long trail of disease, death - Albuquerque Journal",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjZGdXJhU0M2aG1rdVNONUpkYjRJUWx1bENjS3BKSEx1czRkSGVfZ0w2WWVzTENoQnpvbXFqUDFJeVFkbVRULWlPblpjaHNPVTJ0NElHXzNwdklQMC1tdW1EY1JEa0UyczhkWk1ZVXdJS1JhNFZrVjdLN1dzdDZHb0VjWHNxb1I2SEtuaUtHNEl3UkE?oc=5",
-    "source": "Albuquerque Journal",
-    "published_at": "2025-03-07T08:00:00+00:00",
     "tags": [
       "news"
     ],

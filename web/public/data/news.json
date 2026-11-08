@@ -133,17 +133,6 @@
     "country_iso3": []
   },
   {
-    "id": "03d7920e86590c1fbc907591cc7e53f0",
-    "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-    "source": "World Health Organization (WHO)",
-    "published_at": "2026-05-20T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "4298fd7a8134aa5bd32285700152d854",
     "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
@@ -281,6 +270,17 @@
     "title": "How worried should we be about hantavirus? - BBC",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fOXdPSXg0Tm9HQ2RWRHJzUGgwc25lR29aZngxeHpSZE1kY0I3MnZNWXg4Y05SakJxZGJSNXB6Q2dfcV9tWEN3dXBIaUxZeHkxQkpFV3dwc29WQQ?oc=5",
     "source": "BBC",
+    "published_at": "2026-05-12T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "13174fb8f70bb3772a5b12abbe562112",
+    "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
+    "source": "AP News",
     "published_at": "2026-05-12T07:00:00+00:00",
     "tags": [
       "news"
@@ -429,6 +429,17 @@
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYOUYyZzNzSTdSLURSMWhEcHJpREppZWQ2bUxFUWpEM1dxVldIVFVIN0hoUldmVXJGSDBWRmc5bG5oRjVDNWszRjMwbTAtZ3FIaDdxbURkek1QNVZHT3Nz?oc=5",
     "source": "Nature",
     "published_at": "2026-05-07T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "a55e222563311c8f4a62e19e13874afe",
+    "title": "Nothing Can Sink the Cruise Ship - by Jillian Lederman - The Free Press",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bDNncm5wM0J5RDdBc2RjT2pRV2hYSzZOalJWNUxoRU9nanBscEpaYVA2LWl0eXJ4S1gzUTB3SzE3eEhNenQ2bUdGU0NvVjZvTGxOTWNEbllKZw?oc=5",
+    "source": "The Free Press",
+    "published_at": "2026-05-07T00:19:17+00:00",
     "tags": [
       "news"
     ],

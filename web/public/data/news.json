@@ -4,7 +4,7 @@
     "title": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission - Bioengineer.org",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmVXcVdWdW0xMjFUS3FFT0JFNmY3MlZUbEQtclYtVEZEcDZmaWtqTGFSR3dIem5IbXNjUWdWbzdkcFRDNHJJVEVxTUR4VTVZUGRrVGFsTEhMbEFhOUFmeFRtbHRkRDRFcFAzQjNRdjJWanRXRU91dlRRY2g0OWppR2dvOUZtTFZmY3dtS3hpa3VRbXFhT0Q2VFFRd2hKcUUydG1YMW42THQ?oc=5",
     "source": "Bioengineer.org",
-    "published_at": "2026-11-13T20:32:46+00:00",
+    "published_at": "2026-11-13T20:37:02+00:00",
     "tags": [
       "news"
     ],
@@ -309,6 +309,17 @@
     "country_iso3": []
   },
   {
+    "id": "5510cec53836ac490534e83e05962963",
+    "title": "Man shares footage from inside hantavirus quarantine - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5keHR3ZHdaeENEbldZWG9UR3RKeldqTXJNUXNZZGtRZUpkQVBSQ2NJbWpIcjZMeXAyTGlYREdOQjFjM2ZWMS1FbHR2eC1pSXhadzJjcnhQNA?oc=5",
+    "source": "BBC",
+    "published_at": "2026-05-13T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "title": "More hantavirus cases emerge as passengers debark cruise ship",
     "url": "https://www.cidrap.umn.edu/misc-emerging-topics/more-hantavirus-cases-emerge-passengers-debark-cruise-ship",
     "source": "CIDRAP",
@@ -468,10 +479,10 @@
     "country_iso3": []
   },
   {
-    "id": "a3211096b94c4cc83eb2f517846c2bcd",
-    "title": "What you need to know about hantavirus - Nebraska Medicine",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTl0WmdBaGU5YzIwYlktLVFsb3dtaG5NZzNpdVV2S3BDTXhnSFBCZEE0OEN6RVh6bFhvOE5QNmNsRGJHYXdQTVBOQzZwQ0RzVjFMU3ZyNnNQRFFyanQ4MXNXNUlWQW9jazBfbER0anlVME93RS12c3FQLVlZLUEtTVFKeHBPSWxQNjBCZV9CY2gwRWZDb2dZSkd2Zk5aMzljY3RldVIwSnFuaTNxYjJNVXl2RQ?oc=5",
-    "source": "Nebraska Medicine",
+    "id": "22efcfaeb3debc770665df28da4b8bb7",
+    "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
+    "source": "NPR",
     "published_at": "2026-05-07T07:00:00+00:00",
     "tags": [
       "news"
@@ -479,10 +490,10 @@
     "country_iso3": []
   },
   {
-    "id": "22efcfaeb3debc770665df28da4b8bb7",
-    "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
-    "source": "NPR",
+    "id": "a3211096b94c4cc83eb2f517846c2bcd",
+    "title": "What you need to know about hantavirus - Nebraska Medicine",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTl0WmdBaGU5YzIwYlktLVFsb3dtaG5NZzNpdVV2S3BDTXhnSFBCZEE0OEN6RVh6bFhvOE5QNmNsRGJHYXdQTVBOQzZwQ0RzVjFMU3ZyNnNQRFFyanQ4MXNXNUlWQW9jazBfbER0anlVME93RS12c3FQLVlZLUEtTVFKeHBPSWxQNjBCZV9CY2gwRWZDb2dZSkd2Zk5aMzljY3RldVIwSnFuaTNxYjJNVXl2RQ?oc=5",
+    "source": "Nebraska Medicine",
     "published_at": "2026-05-07T07:00:00+00:00",
     "tags": [
       "news"
@@ -627,17 +638,6 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UaXIxYUpueHQ3cjlDTWhidVo3RnJNR1lSWlE0MDN1V0FocUtZRkhqVDZrdERqMDVWS1Z1Slk3UzdYejlRUWUzT2U4bm42NDZsc1NUa285bzYxYS1qWFRGRkxuN1g1VHI0SlE?oc=5",
     "source": "Gavi, the Vaccine Alliance",
     "published_at": "2021-05-10T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "8f5c243902de2b84ac4f2697af304bac",
-    "title": "“Super-Spreaders” and Person-to-Person Transmission of Andes Virus in Argentina - NEJM",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-    "source": "NEJM",
-    "published_at": "2020-12-02T08:00:00+00:00",
     "tags": [
       "news"
     ],

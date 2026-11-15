@@ -1,16 +1,5 @@
 [
   {
-    "id": "8c2b4d85726c2b75f047534ac3ad159d",
-    "title": "Review Identifies COVID-19 Insights to Strengthen Global Hantavirus Outbreak Preparedness - Bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkVaQ2dtTlU3Zi10aUtfeFlEOExHcC1ja1JsQUMyUDdwYk05ZzRlSnpTcTdTT0RRR1RzTDFUY1p4dkFNRUJhc28wNmRrOVB0VHJXN3R1MER1Q04ta3BuZm1XcDFSbDdiRDBQenVEUWMtLUxmYWkxSWxCc0RsMmRnR1RQSmVkY2NNT25vUDIwUTdWUTREaWNDdmxXaHFKUXNSVG1pY0cxblQ5T3lBaG1lVHhpTlA?oc=5",
-    "source": "Bioengineer.org",
-    "published_at": "2026-11-14T09:28:59+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "eeeeb8b74da3ac2aaee4ff67af7058ce",
     "title": "Cruise Ship Outbreak Provides Further Evidence of Andes Virus Human Transmission - Bioengineer.org",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmVXcVdWdW0xMjFUS3FFT0JFNmY3MlZUbEQtclYtVEZEcDZmaWtqTGFSR3dIem5IbXNjUWdWbzdkcFRDNHJJVEVxTUR4VTVZUGRrVGFsTEhMbEFhOUFmeFRtbHRkRDRFcFAzQjNRdjJWanRXRU91dlRRY2g0OWppR2dvOUZtTFZmY3dtS3hpa3VRbXFhT0Q2VFFRd2hKcUUydG1YMW42THQ?oc=5",
@@ -82,6 +71,17 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSzkwQy1WR2tVRElycHZUc1hTV2hhOFZhaDFabERHYmtrcVlQdzZPRGpjdjBERUwzWWRPelQ1cG5FSlFyb1QzdVltMXlZUmw1RjhINFJmajZqc3Y0ZEpQaGFfaTItSE5lbUt5TXJheWlaaFN2ZWJHbXg0RDhxUmlFOG9TaXFFM1E3ZXY3NDdqbEJYclVFZ2wtTDg5aE5pbmQwM0hKRzlTOXpCV2EyV3NObGpEcXBvWDlwVlVWUA?oc=5",
     "source": "blue News",
     "published_at": "2026-11-12T19:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "7b3718c92d6d5fc3d89cac4b4b764531",
+    "title": "Hantavirus Neutralizing Antibodies Differ Between Historical Vaccine and Circulating Chinese Strains - Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjE3YUNZQ0FyZ2F4R2Q2eUEtX2YxaTR2Tzg2SnpmUDBmMjdlZjF0SDJzM3VsbEtveVpfd0NjU0VVWXlUVFNtdFlobTlvMTlDRmpPZ0l1UzBGb0w2ZlJYdzZac3hQRFQ2XzRKVzhBX0d4bG9YREZrazc4UEpTbVlZaW9rX09aMzZxbVdRWG91MWJYYWs5YmhfYmNwVWRReDZVVG9hVkNwazNTQ3Z2anRYOHZrSWk2RzBKMVY5bG5qVWxLLVk?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-11T22:52:54+00:00",
     "tags": [
       "news"
     ],
@@ -177,6 +177,17 @@
     "country_iso3": []
   },
   {
+    "id": "bde1f528fd58f0c88533dd231877d8ee",
+    "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
+    "source": "Science | AAAS",
+    "published_at": "2026-06-11T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "91d14c9e881a9d804f06e1413aeff1ec",
     "title": "What Is Hantavirus & Should I Worry About It? - Cleveland Clinic",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZV9NdkNKNjNudzlEeTM4VlRlVEVPNk1QMzl6c1JRRnhOMTZQaWNBaFI4REpkTWRUbUQzNkt4QmV1SmhCLS03UXplV1FVd2V0XzhDUUhZTEZRNjE2SlA3S25RQ19TWWp6bjc0RlVqLU9yY1E3ajhVc1BFWllKLVpOV2c5N3FKVEllRlE?oc=5",
@@ -203,17 +214,6 @@
     "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
     "source": "World Health Organization (WHO)",
-    "published_at": "2026-05-20T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "018717bddf01befa5588412cfce28fa9",
-    "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-    "source": "CIDRAP",
     "published_at": "2026-05-20T07:00:00+00:00",
     "tags": [
       "news"

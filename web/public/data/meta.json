@@ -1,33 +1,33 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-11-16T20:19:29.989330+00:00",
+  "generated_at": "2026-11-17T03:42:41.627677+00:00",
   "source_runs": {
     "who_don": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-11-16T20:19:27.301418+00:00",
+      "fetched_at": "2026-11-17T03:42:39.244572+00:00",
       "items": 5,
       "error": null
     },
     "ecdc": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-11-16T20:19:28.826195+00:00",
+      "fetched_at": "2026-11-17T03:42:40.238208+00:00",
       "items": 1,
       "error": null
     },
     "google_news": {
-      "ok": false,
-      "state": "error",
-      "fetched_at": "2026-11-16T20:19:29.483431+00:00",
-      "items": 0,
-      "error": "FetchError: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://news.google.com/rss/search?q=hantavirus&hl=en-US&gl=US&ceid=US:en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+      "ok": true,
+      "state": "ok",
+      "fetched_at": "2026-11-17T03:42:41.225575+00:00",
+      "items": 50,
+      "error": null
     }
   },
   "counts": {
     "outbreaks": 1,
     "countries": 13,
     "timeline_points": 35,
-    "news": 6
+    "news": 56
   }
 }

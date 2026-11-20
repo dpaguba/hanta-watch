@@ -1,26 +1,26 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-11-20T03:01:28.044347+00:00",
+  "generated_at": "2026-11-20T11:24:07.405379+00:00",
   "source_runs": {
     "who_don": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-11-20T03:01:25.918548+00:00",
+      "fetched_at": "2026-11-20T11:24:05.395664+00:00",
       "items": 5,
       "error": null
     },
     "ecdc": {
-      "ok": true,
-      "state": "ok",
-      "fetched_at": "2026-11-20T03:01:26.975412+00:00",
-      "items": 1,
-      "error": null
+      "ok": false,
+      "state": "error",
+      "fetched_at": "2026-11-20T11:24:06.461449+00:00",
+      "items": 0,
+      "error": "FetchError: HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
     },
     "google_news": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-11-20T03:01:27.452254+00:00",
-      "items": 49,
+      "fetched_at": "2026-11-20T11:24:06.851113+00:00",
+      "items": 50,
       "error": null
     }
   },
@@ -28,6 +28,6 @@
     "outbreaks": 1,
     "countries": 13,
     "timeline_points": 35,
-    "news": 55
+    "news": 56
   }
 }

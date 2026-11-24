@@ -1,26 +1,26 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-11-24T05:55:23.476482+00:00",
+  "generated_at": "2026-11-24T17:30:37.028314+00:00",
   "source_runs": {
     "who_don": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-11-24T05:55:19.794749+00:00",
+      "fetched_at": "2026-11-24T17:30:35.134469+00:00",
       "items": 5,
       "error": null
     },
     "ecdc": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-11-24T05:55:21.191559+00:00",
+      "fetched_at": "2026-11-24T17:30:36.168420+00:00",
       "items": 1,
       "error": null
     },
     "google_news": {
       "ok": true,
       "state": "ok",
-      "fetched_at": "2026-11-24T05:55:22.910507+00:00",
-      "items": 48,
+      "fetched_at": "2026-11-24T17:30:36.453799+00:00",
+      "items": 50,
       "error": null
     }
   },
@@ -28,6 +28,6 @@
     "outbreaks": 1,
     "countries": 13,
     "timeline_points": 35,
-    "news": 54
+    "news": 56
   }
 }

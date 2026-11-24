@@ -1,0 +1,14 @@
+iso3,country,syndrome,cumulative_cases,cumulative_deaths
+USA,United States,HPS,864,312
+ARG,Argentina,HPS,1600,400
+CHL,Chile,HPS,1100,350
+BRA,Brazil,HPS,2200,900
+PAN,Panama,HPS,230,25
+CHN,China,HFRS,1500000,47000
+KOR,South Korea,HFRS,25000,300
+RUS,Russia,HFRS,200000,700
+FIN,Finland,HFRS,50000,30
+DEU,Germany,HFRS,25000,25
+SWE,Sweden,HFRS,10000,10
+FRA,France,HFRS,2500,5
+NLD,Netherlands,mixed,7,1

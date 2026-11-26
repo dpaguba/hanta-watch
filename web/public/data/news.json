@@ -1,5 +1,16 @@
 [
   {
+    "id": "fed873dd7e02a94261428ec32c35d141",
+    "title": "🦠 Hantavirus: how did the virus spread during the cruise? - Techno-Science",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlhNNlNVR0VWS2xPb0oxWExwZUVyMEI1dk9hZEVhWkRUZWNIczVfUHdSRUpzVERqa0tzYXZuenJTbzR4WkdtLUY3RWdKMS1INXJfdURPU1NVRVhGbDcyWWhxMFlVdXdHUFlaVFBvNzBDdWp1M0JoZ2VFNGRVc2MzVjNza29iQXBhMDBGRVA3eURnNmlF?oc=5",
+    "source": "Techno-Science",
+    "published_at": "2026-11-26T05:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "5811fac59f0f54e747b516865a344422",
     "title": "Studies Trace Cruise Ship Hantavirus to Patagonia - Respiratory Therapy",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamE4UDIwOVVjaFpzMFk2Y21fWHBZc0t1VDBnUUlKQkR4b2hWbDNNZFp5NjBHMjltN0xTdHBUT1M5bE9HX29WT3NJOS1YREtRWk1ndXU0Vy1NdjJyd0E2V0R3dEZiY25ybDFwRmtFXzY4UE1jb2RiTkE1M3BqcjBvRlM4M29SeG5xSjBJZlFNdTZ1YlZkOHkyV3RZZm55ZkV3YXZCMTBXcDk3ZHRfdEFlUEhOUkxidHJjalFnUmw3U2ItVXhDQm9hQnFiLW1ERXVXQlhBVg?oc=5",
@@ -55,33 +66,22 @@
     "country_iso3": []
   },
   {
+    "id": "77f7d19e15e0cecc563079b0a6d7eebd",
+    "title": "Andes hantavirus outbreak examined by scientists through its genome - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU25LTmJRblo2UjE5VFZjekRRYWZoUlNFUThqXzBERDdDZTM5S2FfN0xycWlnaDRsejQzZnI0eUxaT2NTQlBkVEtxVi1SUnpXUWhxTU9zcWQwSUtaV1N0WjRKN2JrSmZRZERwU1RrTkRiRGNxWlo2bDlsLWFSQmV5MHBQN0ExR3BkU2NUMF9IdjJCd3I5aXVpWVpUUFA5dDdrV0hBTHR6ZlhiMUllRUQxazVPenVSQkszdUQxOExHU2ZnY2lqZnlrTXVIMkVKNVJ0d2c?oc=5",
+    "source": "Le Monde.fr",
+    "published_at": "2026-11-12T08:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
     "id": "f620c2a4a84666b816644eb8debf4fdf",
     "title": "Hantavirus Cruise Outbreak: No Detected Spread, Low Risk to Contacts - Forbes",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3Z6UkI2bXU2a3BXN2d2emxyYUI5ZUNIM2VZcVVBR0tYT1d5d3lRSWJZc3EtTkwtaHE3VHcwZ1lnak8wdlgtRGNrSzltVWtlc1hQMkx5QlNoWE1oRGEzdlE2ek84eW1LQmg5RXgyZ3l4ejNiRE5mQnQ3NDNNNm1zSmlaR3dkRjJQRktIVXdsVmNvc01sWnRSMVQtSXRfdFR1MXdURzVaRWRnS0tnU05PaDBoUDRBY184ZjhFaVVB?oc=5",
     "source": "Forbes",
     "published_at": "2026-11-09T08:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "76542ad2a28c76e4b32e494414945f30",
-    "title": "Russia records hantavirus outbreak: Local media - Outbreak News Today",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNTR3a0Q1c2ZsQlBZNXhGYy13YlJtVkU5WVJwZWlDX29YLVVfLUNCd2hfT2V5RDNORTBOdEpXNFlUX2Zsa09aNktNTzNJenk3Mi1YUWIzSUN0TlYzZG5LQUkyRnB6WGRjVXhCdlNwWmJCamhHaUg3WkU0TDVwR2M5dQ?oc=5",
-    "source": "Outbreak News Today",
-    "published_at": "2026-11-03T08:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
-    "id": "657d65e2ec3d3dcc638656aee2b551c6",
-    "title": "Andes hantavirus has a secret pocket - Chemical & Engineering News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tPRWhiRHZFLUJyZDRDbFV3NUtURzMybl9PWGNFTE5qVExWc182QzdCeS1YZjd1bWpvQ0dvd2VuUEhKcmFBU2xpdzJuamdGYjd6bFNzbHlSbEV1dXZTTHBSOVBZZ01mM3l0R0IzUDlNQVJRYXJxZVcyMDNNNUpMQV8yaXhtdGF2UmNoUlI5Sk03UzFRTW1nTG5MeTNVdmo5cXhxX3Jlaw?oc=5",
-    "source": "Chemical & Engineering News",
-    "published_at": "2026-10-23T07:00:00+00:00",
     "tags": [
       "news"
     ],
@@ -331,17 +331,6 @@
     "country_iso3": []
   },
   {
-    "id": "6894c3db9ccd66a3e4ceefabecfcf3c6",
-    "title": "Hantavirus: Symptoms, Risks and How to Stay Safe - NewYork-Presbyterian",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2ZsNjVFOGJ3X0xiczM1NFFQNDRNLWNqanpoMmpvT0xRcXlxeG5DQU9OaHZhTmR0Rl8yek83cVJfelZiQklnRGFiRzlUVjZPRXhNYmRpdXJKTlpoMEhvM3Q3ZzJlbEtDVkh2Mkc5blFncTVxUXBaR0hoTEtvVHNzU1F1NUVSMjQ?oc=5",
-    "source": "NewYork-Presbyterian",
-    "published_at": "2026-05-14T07:00:00+00:00",
-    "tags": [
-      "news"
-    ],
-    "country_iso3": []
-  },
-  {
     "id": "a16f4723208522b596bf66da93249e28",
     "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
@@ -571,6 +560,17 @@
     "title": "Hantavirus outbreak on cruise ship raises transmission concerns - University of California, Riverside",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n?oc=5",
     "source": "University of California, Riverside",
+    "published_at": "2026-05-07T07:00:00+00:00",
+    "tags": [
+      "news"
+    ],
+    "country_iso3": []
+  },
+  {
+    "id": "981f2ed2a6a97c7dee720e88289c7a9e",
+    "title": "Hantavirus - Statement from the Virginia Department of Health - Virginia Department of Health (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRm5SclRKdUpJaXF0aGZ5MWNzTkNYTWJUaWNSV2RoN0I2WTRSQXBCV3ZBejRycTdJQlNkeFpHQzlyRXNoOTFVTGdkVzFNRXNjeWtEb1o1VXJ5cjcyaU93YjlZRnhyOTVVN0pndHB1YzhTbWFELXRvWnlPLUR0RzR6azA2Z1BoYXNlV3Yxc1I3NDVLbUpxVmZ4X1VwdWY1cFRDUUt3QzFoelU?oc=5",
+    "source": "Virginia Department of Health (.gov)",
     "published_at": "2026-05-07T07:00:00+00:00",
     "tags": [
       "news"
